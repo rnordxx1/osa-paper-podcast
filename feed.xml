@@ -6,7 +6,7 @@
     <atom:link href="https://rnordxx1.github.io/osa-paper-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <copyright>&#169; 2026 Ryan Nord, MD</copyright>
-    <lastBuildDate>Thu, 08 Oct 2026 10:40:53 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 06:01:56 -0400</lastBuildDate>
     <description>Every day, one new paper on obstructive sleep apnea surgery: hypoglossal nerve stimulation, palate surgery including barbed reposition pharyngoplasty, tongue base, skeletal and nasal procedures, patient selection and comparators. Every episode summarizes the paper, walks through it as a teaching round, places it against a 440-paper evidence library, and ends with whether it should change practice.
 
 Episodes are written and narrated by an AI system working from the full text of each paper and the host's curated library of digests, under rules set by the host. They are reviewed for teaching, not for patient care. Nothing here is medical advice.
@@ -29,6 +29,56 @@ Produced by Ryan Nord, MD (VCU Health). Disclosures: consultant to AvivoMed; pre
     <itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Ultrasonographic Tongue Base Motion Does Not Correlate With Hypoglossal Nerve Stimulation Outcomes</title>
+      <itunes:title>Ultrasonographic Tongue Base Motion Does Not Correlate With Hypoglossal Nerve Stimulation Outcomes</itunes:title>
+      <description>My call is no change, with a watch on ultrasound as a research tool.
+
+The decision this paper touches is what I make of tongue motion after implantation. Three pieces.
+
+First, counseling. I won't tell a patient that a strong forward tongue at activation predicts a great sleep study, or that a modest one predicts failure. This paper gives me no basis for either.
+
+Second, titration. There's no support here for using visible or ultrasound motion as a titration target, or for raising amplitude just to make the tongue move more. Motion wasn't related to voltage in their standard-configuration patients. The authors caution against increasing stimulation beyond comfort. That's sensible, but it's their recommendation, not something this study measured.
+
+Third, the non-responder whose tongue moves well. This paper and Harkins both point away from "make it move more" and toward looking at the airway itself, with DISE or awake endoscopy. The authors suggest residual palatal or lateral-wall obstruction as one explanation, a hypothesis they didn't test. That's where palate surgery, including barbed reposition pharyngoplasty, enters the discussion, but I won't cite this paper as evidence for it.
+
+What doesn't change? Nothing here argues against watching for retraction and favoring protrusor branches at implantation. That rests on Heiser and Sturm, and this study didn't address it. When I teach residents in the OR, the point is narrower now: protrusion versus retraction still matters, but how far the tongue moves forward is not a demonstrated predictor.
+
+Confidence: moderate that graded ultrasound magnitude and symmetry aren't useful predictors at this level of measurement. Low on buckling, where the interval is wide. What would move me is a prospective study imaging at implantation and titration, with measured displacement, several amplitudes and configurations in each patient, paired DISE, one standardized full-night study at a fixed timepoint, and adjustment for baseline severity. Inspire V data would help too, once published.
+
+The citation: Tschopp, Janjic, Caversaccio, Borner and Tschopp. "Ultrasonographic Tongue Base Motion Does Not Correlate With Hypoglossal Nerve Stimulation Outcomes." Laryngoscope Investigative Otolaryngology, twenty twenty-six, volume eleven, issue two.
+
+Residents, next time you watch a tongue at activation, what will you actually be judging? What's your one takeaway?
+
+Paper: Tschopp S, Janjic V, Caversaccio M, Borner U, Tschopp K. Ultrasonographic Tongue Base Motion Does Not Correlate With Hypoglossal Nerve Stimulation Outcomes. *Laryngoscope Investig Oto*. 2026;11(2). doi:10.1002/lio2.70376
+https://doi.org/10.1002/lio2.70376</description>
+      <content:encoded><![CDATA[<p>My call is no change, with a watch on ultrasound as a research tool.</p><p>The decision this paper touches is what I make of tongue motion after implantation. Three pieces.</p><p>First, counseling. I won&#x27;t tell a patient that a strong forward tongue at activation predicts a great sleep study, or that a modest one predicts failure. This paper gives me no basis for either.</p><p>Second, titration. There&#x27;s no support here for using visible or ultrasound motion as a titration target, or for raising amplitude just to make the tongue move more. Motion wasn&#x27;t related to voltage in their standard-configuration patients. The authors caution against increasing stimulation beyond comfort. That&#x27;s sensible, but it&#x27;s their recommendation, not something this study measured.</p><p>Third, the non-responder whose tongue moves well. This paper and Harkins both point away from &quot;make it move more&quot; and toward looking at the airway itself, with DISE or awake endoscopy. The authors suggest residual palatal or lateral-wall obstruction as one explanation, a hypothesis they didn&#x27;t test. That&#x27;s where palate surgery, including barbed reposition pharyngoplasty, enters the discussion, but I won&#x27;t cite this paper as evidence for it.</p><p>What doesn&#x27;t change? Nothing here argues against watching for retraction and favoring protrusor branches at implantation. That rests on Heiser and Sturm, and this study didn&#x27;t address it. When I teach residents in the OR, the point is narrower now: protrusion versus retraction still matters, but how far the tongue moves forward is not a demonstrated predictor.</p><p>Confidence: moderate that graded ultrasound magnitude and symmetry aren&#x27;t useful predictors at this level of measurement. Low on buckling, where the interval is wide. What would move me is a prospective study imaging at implantation and titration, with measured displacement, several amplitudes and configurations in each patient, paired DISE, one standardized full-night study at a fixed timepoint, and adjustment for baseline severity. Inspire V data would help too, once published.</p><p>The citation: Tschopp, Janjic, Caversaccio, Borner and Tschopp. &quot;Ultrasonographic Tongue Base Motion Does Not Correlate With Hypoglossal Nerve Stimulation Outcomes.&quot; Laryngoscope Investigative Otolaryngology, twenty twenty-six, volume eleven, issue two.</p><p>Residents, next time you watch a tongue at activation, what will you actually be judging? What&#x27;s your one takeaway?</p><p>Paper: Tschopp S, Janjic V, Caversaccio M, Borner U, Tschopp K. Ultrasonographic Tongue Base Motion Does Not Correlate With Hypoglossal Nerve Stimulation Outcomes. *Laryngoscope Investig Oto*. 2026;11(2). doi:10.1002/lio2.70376
+https://doi.org/10.1002/lio2.70376</p>]]></content:encoded>
+      <itunes:summary>My call is no change, with a watch on ultrasound as a research tool.
+
+The decision this paper touches is what I make of tongue motion after implantation. Three pieces.
+
+First, counseling. I won't tell a patient that a strong forward tongue at activation predicts a great sleep study, or that a modest one predicts failure. This paper gives me no basis for either.
+
+Second, titration. There's no support here for using visible or ultrasound motion as a titration target, or for raising amplitude just to make the tongue move more. Motion wasn't related to voltage in their standard-configuration patients. The authors caution against increasing stimulation beyond comfort. That's sensible, but it's their recommendation, not something this study measured.
+
+Third, the non-responder whose tongue moves well. This paper and Harkins both point away from "make it move more" and toward looking at the airway itself, with DISE or awake endoscopy. The authors suggest residual palatal or lateral-wall obstruction as one explanation, a hypothesis they didn't test. That's where palate surgery, including barbed reposition pharyngoplasty, enters the discussion, but I won't cite this paper as evidence for it.
+
+What doesn't change? Nothing here argues against watching for retraction and favoring protrusor branches at implantation. That rests on Heiser and Sturm, and this study didn't address it. When I teach residents in the OR, the point is narrower now: protrusion versus retraction still matters, but how far the tongue moves forward is not a demonstrated predictor.
+
+Confidence: moderate that graded ultrasound magnitude and symmetry aren't useful predictors at this level of measurement. Low on buckling, where the interval is wide. What would move me is a prospective study imaging at implantation and titration, with measured displacement, several amplitudes and configurations in each patient, paired DISE, one standardized full-night study at a fixed timepoint, and adjustment for baseline severity. Inspire V data would help too, once published.
+
+The citation: Tschopp, Janjic, Caversaccio, Borner and Tschopp. "Ultrasonographic Tongue Base Motion Does Not Correlate With Hypoglossal Nerve Stimulation Outcomes." Laryngoscope Investigative Otolaryngology, twenty twenty-six, volume eleven, issue two.
+
+Residents, next time you watch a tongue at activation, what will you actually be judging? What's your one takeaway?</itunes:summary>
+      <enclosure url="https://rnordxx1.github.io/osa-paper-podcast/episodes/2026-10-09-Ultrasonographic-Tongue-Base-Motion-Does-Not-Correlate.mp3" length="3686450" type="audio/mpeg"/>
+      <guid isPermaLink="false">osa-paper-podcast-2181216d</guid>
+      <pubDate>Fri, 09 Oct 2026 06:01:54 -0400</pubDate>
+      <itunes:duration>0:10:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Ryan Nord, MD</itunes:author>
+      <link>https://doi.org/10.1002/lio2.70376</link>
+    </item>
     <item>
       <title>Exploring the Role of Drug-Induced Sleep Endoscopy in Optimizing Upper Airway Stimulation Therapy for Non-Responders</title>
       <itunes:title>Exploring the Role of Drug-Induced Sleep Endoscopy in Optimizing Upper Airway Stimulation Therapy for Non-Responders</itunes:title>
