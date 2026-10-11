@@ -23,12 +23,6 @@
   "duration": 836,
   "uploaded": "2026-10-08T09:36:08"
  },
- "2181216d": {
-  "asset": "2026-10-09-Ultrasonographic-Tongue-Base-Motion-Does-Not-Correlate.mp3",
-  "bytes": 3686450,
-  "duration": 613,
-  "uploaded": "2026-10-09T06:01:56"
- },
  "f8680397": {
   "asset": "2026-10-10-Auditory-Perceptions-Associated-With-Hypoglossal-Nerve-Stimulation.mp3",
   "bytes": 4966756,
@@ -40,5 +34,11 @@
   "bytes": 5207419,
   "duration": 866,
   "uploaded": "2026-10-11T04:46:38"
+ },
+ "2181216d": {
+  "asset": "2026-10-11-Ultrasonographic-Tongue-Base-Motion-Does-Not-Correlate.mp3",
+  "bytes": 5273187,
+  "duration": 877,
+  "uploaded": "2026-10-11T19:44:06"
  }
 }
