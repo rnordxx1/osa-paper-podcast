@@ -1,5 +1,22 @@
 [
  {
+  "id": "79c46847",
+  "date": "2026-10-13",
+  "title": "GLP-1 receptor agonists for obstructive sleep apnea: a meta-analysis of randomized controlled trials",
+  "authors": "Carvalhal G, Mora MMR, Peralta-Jiménez GA, Ayasa L, Barrera V, Advani K, et al.",
+  "journal": "Sleep and Breathing",
+  "year": "2026",
+  "doi": "10.1007/s11325-026-03826-5",
+  "pmid": "42837024",
+  "blurb": "This meta-analysis of six randomized trials asked whether glucagon-like peptide one (GLP-1) receptor agonist drugs, liraglutide and tirzepatide, reduce the severity of obstructive sleep apnea compared with control. Pooled, the drugs lowered the apnea-hypopnea index by about ten events per hour more than control, but the effect differed sharply by drug, and oxygen measures did not improve significantly. The call is no change to surgical decisions for hypoglossal nerve stimulation or barbed reposition pharyngoplasty, with drug-specific numbers recommended for patient counseling.",
+  "audio": "https://rnordxx1.github.io/osa-paper-podcast/episodes/2026-10-13-GLP-1-receptor-agonists-for-obstructive-sleep-apnea.mp3",
+  "bytes": 4939141,
+  "duration": 822,
+  "minutes": 14,
+  "page": "https://rnordxx1.github.io/osa-paper-podcast/#ep-79c46847",
+  "guid": "osa-paper-podcast-79c46847"
+ },
+ {
   "id": "2181216d",
   "date": "2026-10-11",
   "title": "Ultrasonographic Tongue Base Motion Does Not Correlate With Hypoglossal Nerve Stimulation Outcomes",
