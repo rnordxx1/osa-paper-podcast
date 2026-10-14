@@ -1,5 +1,22 @@
 [
  {
+  "id": "94d79b49",
+  "date": "2026-10-14",
+  "title": "Exploring the Role of Drug-Induced Sleep Endoscopy in Optimizing Upper Airway Stimulation Therapy for Non-Responders",
+  "authors": "Kant E, Hardeman JA, Stokroos RJ, Copper MP.",
+  "journal": "Sleep & Breathing = Schlaf & Atmung",
+  "year": "2025",
+  "doi": "10.1007/s11325-025-03468-z",
+  "pmid": "40944806",
+  "blurb": "Copper's group at Sint Antonius Hospital in the Netherlands described how they use drug-induced sleep endoscopy with the stimulator switched on in patients who still fail Inspire hypoglossal nerve stimulation after standard titration, and what happened to those patients afterwards. In a small retrospective series without a control group, patients who had settings changes or added therapy and returned for follow-up saw their apnea-hypopnea index fall by about 18 events per hour. Dr. Nord considers the procedure a good tool for the tolerant non-responder once awake endoscopy and reprogramming have failed, while noting that the series cannot show the endoscopy itself caused the improvement.",
+  "audio": "https://op3.dev/e,pg=a8f632d4-b280-5622-8f4e-25f719757a04/rnordxx1.github.io/osa-paper-podcast/episodes/2026-10-14-Exploring-the-Role-of-Drug-Induced-Sleep-Endoscopy.mp3",
+  "bytes": 4958226,
+  "duration": 825,
+  "minutes": 14,
+  "page": "https://rnordxx1.github.io/osa-paper-podcast/#ep-94d79b49",
+  "guid": "osa-paper-podcast-94d79b49"
+ },
+ {
   "id": "79c46847",
   "date": "2026-10-14",
   "title": "GLP-1 receptor agonists for obstructive sleep apnea: a meta-analysis of randomized controlled trials",
@@ -100,23 +117,6 @@
   "minutes": 14,
   "page": "https://rnordxx1.github.io/osa-paper-podcast/#ep-f8680397",
   "guid": "osa-paper-podcast-f8680397"
- },
- {
-  "id": "94d79b49",
-  "date": "2026-10-08",
-  "title": "Exploring the Role of Drug-Induced Sleep Endoscopy in Optimizing Upper Airway Stimulation Therapy for Non-Responders",
-  "authors": "Kant E, Hardeman JA, Stokroos RJ, Copper MP.",
-  "journal": "Sleep & Breathing = Schlaf & Atmung",
-  "year": "2025",
-  "doi": "10.1007/s11325-025-03468-z",
-  "pmid": "40944806",
-  "blurb": "Kant and colleagues reviewed 29 non-responders to Inspire upper airway stimulation who underwent drug-induced sleep endoscopy with the device switched on, to guide changes in stimulation settings or additional treatment. Among the 18 patients with follow-up, 8 became responders, mostly after device-setting changes or barbed reposition pharyngoplasty, but there was no control group and, as the authors note, more than half were not effectively treated. The call is watch: it is a reasonable option for tolerant non-responders, but it is not yet proven to add benefit.",
-  "audio": "https://op3.dev/e,pg=a8f632d4-b280-5622-8f4e-25f719757a04/rnordxx1.github.io/osa-paper-podcast/episodes/2026-10-08-Exploring-the-Role-of-Drug-Induced-Sleep-Endoscopy.mp3",
-  "bytes": 5026262,
-  "duration": 836,
-  "minutes": 14,
-  "page": "https://rnordxx1.github.io/osa-paper-podcast/#ep-94d79b49",
-  "guid": "osa-paper-podcast-94d79b49"
  },
  {
   "id": "b98ae3a1",
