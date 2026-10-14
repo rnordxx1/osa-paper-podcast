@@ -7,7 +7,7 @@
     <atom:link href="https://rnordxx1.github.io/osa-paper-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <copyright>&#169; 2026 Ryan Nord, MD</copyright>
-    <lastBuildDate>Wed, 14 Oct 2026 19:45:38 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 19:58:33 -0400</lastBuildDate>
     <description>Every day, one new paper on obstructive sleep apnea surgery: hypoglossal nerve stimulation, palate surgery including barbed reposition pharyngoplasty, tongue base, skeletal and nasal procedures, patient selection and comparators. Every episode summarizes the paper, walks through it as a teaching round, places it against a 440-paper evidence library, and ends with whether it should change practice.
 
 Episodes are written and narrated by an AI system working from the full text of each paper and the host's curated library of digests, under rules set by the host. They are reviewed for teaching, not for patient care. Nothing here is medical advice.
@@ -30,6 +30,48 @@ Produced by Ryan Nord, MD (VCU Health). Disclosures: consultant to AvivoMed; pre
     <itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Post-Operative Radiological Evaluation of a Bilateral Hypoglossal Nerve Stimulation System</title>
+      <itunes:title>Post-Operative Radiological Evaluation of a Bilateral Hypoglossal Nerve Stimulation System</itunes:title>
+      <description>The take-home point is simple. For a patient with a Genio implant, the plain film is the image that shows the hardware. Every x-ray was clean, all eleven. Every CT carried artifact, all eight.
+
+Dr. Nord's practice is built on high-volume Inspire implantation and barbed reposition pharyngoplasty. This is Genio data from eleven patients, so its numbers stay with Genio. What it adds is to counseling and to imaging.
+
+When a patient asks about the bilateral device, the meta-analyses are the place to start. There's no demonstrated efficacy advantage over unilateral stimulation, and the safety record is less mature. DREAM adds device-specific failure modes, including migration. When a patient with a Genio implant needs imaging of the floor of mouth or tongue base, we now know what to expect. Plain films show the hardware cleanly. CT will carry artifact, compounded by dental work, and the authors advise reformatting in at least two planes. This is an older population where head and neck cancer workup will come up, as the authors point out, so tell the radiologist up front.
+
+What I teach residents in the operating room and clinic is this. A symmetric film is not a prediction of success, and an asymmetric one is not grounds for revision. The trigger for workup is failure to activate or failure to respond, not the picture.
+
+Confidence is moderate on the imaging advice, because it rests on eight CT scans in patients who all had dental implants. It's low on anything linking position to function. What would move it is a repeat film over time. That would tell us when migration happens, in the first week or the first month. It would show how often only one side shifts, and whether day-one asymmetry gets worse. Tie those films to thresholds and twelve-month A-H-I, and the day-one baseline becomes actionable. That's what to watch.
+
+The citation: Kilgue, Gehl, Abolmaali, Scholtz, Scherl and Todt. Post-operative radiological evaluation of a bilateral hypoglossal nerve stimulation system. Frontiers in Surgery, 2026, volume thirteen, article one eight one eight two four seven.
+
+What's your one takeaway from this paper?
+
+Paper: Kilgue A, Gehl H-B, Abolmaali N, Scholtz L-U, Scherl C, Todt I. "Post-operative radiological evaluation of a bilateral hypoglossal nerve stimulation system." *Front. Surg.* 2026;13:1818247. DOI: 10.3389/fsurg.2026.1818247. PMID: not printed in PDF (42712560 per the weekly PubMed scan). Received 26 February 2026; revised 30 June 2026; accepted 08 July 2026; published 25 August 2026. Klinikum Bielefeld / Bielefeld University, Germany. Open access (CC BY).
+https://doi.org/10.3389/fsurg.2026.1818247</description>
+      <content:encoded><![CDATA[<p>The take-home point is simple. For a patient with a Genio implant, the plain film is the image that shows the hardware. Every x-ray was clean, all eleven. Every CT carried artifact, all eight.</p><p>Dr. Nord&#x27;s practice is built on high-volume Inspire implantation and barbed reposition pharyngoplasty. This is Genio data from eleven patients, so its numbers stay with Genio. What it adds is to counseling and to imaging.</p><p>When a patient asks about the bilateral device, the meta-analyses are the place to start. There&#x27;s no demonstrated efficacy advantage over unilateral stimulation, and the safety record is less mature. DREAM adds device-specific failure modes, including migration. When a patient with a Genio implant needs imaging of the floor of mouth or tongue base, we now know what to expect. Plain films show the hardware cleanly. CT will carry artifact, compounded by dental work, and the authors advise reformatting in at least two planes. This is an older population where head and neck cancer workup will come up, as the authors point out, so tell the radiologist up front.</p><p>What I teach residents in the operating room and clinic is this. A symmetric film is not a prediction of success, and an asymmetric one is not grounds for revision. The trigger for workup is failure to activate or failure to respond, not the picture.</p><p>Confidence is moderate on the imaging advice, because it rests on eight CT scans in patients who all had dental implants. It&#x27;s low on anything linking position to function. What would move it is a repeat film over time. That would tell us when migration happens, in the first week or the first month. It would show how often only one side shifts, and whether day-one asymmetry gets worse. Tie those films to thresholds and twelve-month A-H-I, and the day-one baseline becomes actionable. That&#x27;s what to watch.</p><p>The citation: Kilgue, Gehl, Abolmaali, Scholtz, Scherl and Todt. Post-operative radiological evaluation of a bilateral hypoglossal nerve stimulation system. Frontiers in Surgery, 2026, volume thirteen, article one eight one eight two four seven.</p><p>What&#x27;s your one takeaway from this paper?</p><p>Paper: Kilgue A, Gehl H-B, Abolmaali N, Scholtz L-U, Scherl C, Todt I. &quot;Post-operative radiological evaluation of a bilateral hypoglossal nerve stimulation system.&quot; *Front. Surg.* 2026;13:1818247. DOI: 10.3389/fsurg.2026.1818247. PMID: not printed in PDF (42712560 per the weekly PubMed scan). Received 26 February 2026; revised 30 June 2026; accepted 08 July 2026; published 25 August 2026. Klinikum Bielefeld / Bielefeld University, Germany. Open access (CC BY).
+https://doi.org/10.3389/fsurg.2026.1818247</p>]]></content:encoded>
+      <itunes:summary>The take-home point is simple. For a patient with a Genio implant, the plain film is the image that shows the hardware. Every x-ray was clean, all eleven. Every CT carried artifact, all eight.
+
+Dr. Nord's practice is built on high-volume Inspire implantation and barbed reposition pharyngoplasty. This is Genio data from eleven patients, so its numbers stay with Genio. What it adds is to counseling and to imaging.
+
+When a patient asks about the bilateral device, the meta-analyses are the place to start. There's no demonstrated efficacy advantage over unilateral stimulation, and the safety record is less mature. DREAM adds device-specific failure modes, including migration. When a patient with a Genio implant needs imaging of the floor of mouth or tongue base, we now know what to expect. Plain films show the hardware cleanly. CT will carry artifact, compounded by dental work, and the authors advise reformatting in at least two planes. This is an older population where head and neck cancer workup will come up, as the authors point out, so tell the radiologist up front.
+
+What I teach residents in the operating room and clinic is this. A symmetric film is not a prediction of success, and an asymmetric one is not grounds for revision. The trigger for workup is failure to activate or failure to respond, not the picture.
+
+Confidence is moderate on the imaging advice, because it rests on eight CT scans in patients who all had dental implants. It's low on anything linking position to function. What would move it is a repeat film over time. That would tell us when migration happens, in the first week or the first month. It would show how often only one side shifts, and whether day-one asymmetry gets worse. Tie those films to thresholds and twelve-month A-H-I, and the day-one baseline becomes actionable. That's what to watch.
+
+The citation: Kilgue, Gehl, Abolmaali, Scholtz, Scherl and Todt. Post-operative radiological evaluation of a bilateral hypoglossal nerve stimulation system. Frontiers in Surgery, 2026, volume thirteen, article one eight one eight two four seven.
+
+What's your one takeaway from this paper?</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=a8f632d4-b280-5622-8f4e-25f719757a04/rnordxx1.github.io/osa-paper-podcast/episodes/2026-10-14-Post-Operative-Radiological-Evaluation-of-a-Bilateral-Hypoglossal.mp3" length="5052320" type="audio/mpeg"/>
+      <guid isPermaLink="false">osa-paper-podcast-c3e9f281</guid>
+      <pubDate>Wed, 14 Oct 2026 19:58:32 -0400</pubDate>
+      <itunes:duration>0:14:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Ryan Nord, MD</itunes:author>
+      <link>https://doi.org/10.3389/fsurg.2026.1818247</link>
+    </item>
     <item>
       <title>Exploring the Role of Drug-Induced Sleep Endoscopy in Optimizing Upper Airway Stimulation Therapy for Non-Responders</title>
       <itunes:title>Exploring the Role of Drug-Induced Sleep Endoscopy in Optimizing Upper Airway Stimulation Therapy for Non-Responders</itunes:title>
@@ -267,52 +309,6 @@ Residents, what's your one takeaway?</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Ryan Nord, MD</itunes:author>
       <link>https://doi.org/10.1002/lio2.70376</link>
-    </item>
-    <item>
-      <title>Post-Operative Radiological Evaluation of a Bilateral Hypoglossal Nerve Stimulation System</title>
-      <itunes:title>Post-Operative Radiological Evaluation of a Bilateral Hypoglossal Nerve Stimulation System</itunes:title>
-      <description>My call is no change, with one thing to watch.
-
-I'm a high-volume Inspire implanter, and I perform barbed reposition pharyngoplasty. This paper touches neither. It's Genio data from eleven patients. It has nothing on Inspire candidacy, drug-induced sleep endoscopy, or palate surgery, and I won't quote its numbers to an Inspire patient.
-
-The decisions it affects are narrower. When a patient asks about the bilateral device, my counseling stays where Patel and Heiser leave it: there is no demonstrated efficacy advantage over unilateral stimulation, and the safety record is less mature. DREAM adds device-specific failure modes, including migration. When a patient with a Genio implant needs imaging of the floor of mouth or tongue base, I now know what to expect. Plain films show the hardware cleanly. CT will carry artifact, compounded by dental work, and the authors advise reformatting in at least two planes. This is an older population where head and neck cancer workup will come up, as the authors point out, so it's worth telling the radiologist up front.
-
-What I teach residents in the operating room and clinic is this. A symmetric film is not a prediction of success, and an asymmetric one is not grounds for revision. The trigger for workup is failure to activate or failure to respond, not the picture.
-
-My confidence is high that this doesn't touch Inspire practice. It's moderate on the imaging advice, because that rests on eight CT scans in patients who all had dental implants. What would move me? A larger bilateral series with day-one and activation-visit films, linked to thresholds and twelve-month A-H-I. If a day-one film predicted migration or activation failure, that baseline would become actionable. That's the watch.
-
-The citation: Kilgue, Gehl, Abolmaali, Scholtz, Scherl and Todt. Post-operative radiological evaluation of a bilateral hypoglossal nerve stimulation system. Frontiers in Surgery, 2026, volume 13, article 1818247.
-
-Residents, what's your one takeaway?
-
-See you in the OR or clinic.
-
-Paper: Kilgue A, Gehl H-B, Abolmaali N, Scholtz L-U, Scherl C, Todt I. "Post-operative radiological evaluation of a bilateral hypoglossal nerve stimulation system." *Front. Surg.* 2026;13:1818247. DOI: 10.3389/fsurg.2026.1818247. PMID: not printed in PDF (42712560 per the weekly PubMed scan). Received 26 February 2026; revised 30 June 2026; accepted 08 July 2026; published 25 August 2026. Klinikum Bielefeld / Bielefeld University, Germany. Open access (CC BY).
-https://doi.org/10.3389/fsurg.2026.1818247</description>
-      <content:encoded><![CDATA[<p>My call is no change, with one thing to watch.</p><p>I&#x27;m a high-volume Inspire implanter, and I perform barbed reposition pharyngoplasty. This paper touches neither. It&#x27;s Genio data from eleven patients. It has nothing on Inspire candidacy, drug-induced sleep endoscopy, or palate surgery, and I won&#x27;t quote its numbers to an Inspire patient.</p><p>The decisions it affects are narrower. When a patient asks about the bilateral device, my counseling stays where Patel and Heiser leave it: there is no demonstrated efficacy advantage over unilateral stimulation, and the safety record is less mature. DREAM adds device-specific failure modes, including migration. When a patient with a Genio implant needs imaging of the floor of mouth or tongue base, I now know what to expect. Plain films show the hardware cleanly. CT will carry artifact, compounded by dental work, and the authors advise reformatting in at least two planes. This is an older population where head and neck cancer workup will come up, as the authors point out, so it&#x27;s worth telling the radiologist up front.</p><p>What I teach residents in the operating room and clinic is this. A symmetric film is not a prediction of success, and an asymmetric one is not grounds for revision. The trigger for workup is failure to activate or failure to respond, not the picture.</p><p>My confidence is high that this doesn&#x27;t touch Inspire practice. It&#x27;s moderate on the imaging advice, because that rests on eight CT scans in patients who all had dental implants. What would move me? A larger bilateral series with day-one and activation-visit films, linked to thresholds and twelve-month A-H-I. If a day-one film predicted migration or activation failure, that baseline would become actionable. That&#x27;s the watch.</p><p>The citation: Kilgue, Gehl, Abolmaali, Scholtz, Scherl and Todt. Post-operative radiological evaluation of a bilateral hypoglossal nerve stimulation system. Frontiers in Surgery, 2026, volume 13, article 1818247.</p><p>Residents, what&#x27;s your one takeaway?</p><p>See you in the OR or clinic.</p><p>Paper: Kilgue A, Gehl H-B, Abolmaali N, Scholtz L-U, Scherl C, Todt I. &quot;Post-operative radiological evaluation of a bilateral hypoglossal nerve stimulation system.&quot; *Front. Surg.* 2026;13:1818247. DOI: 10.3389/fsurg.2026.1818247. PMID: not printed in PDF (42712560 per the weekly PubMed scan). Received 26 February 2026; revised 30 June 2026; accepted 08 July 2026; published 25 August 2026. Klinikum Bielefeld / Bielefeld University, Germany. Open access (CC BY).
-https://doi.org/10.3389/fsurg.2026.1818247</p>]]></content:encoded>
-      <itunes:summary>My call is no change, with one thing to watch.
-
-I'm a high-volume Inspire implanter, and I perform barbed reposition pharyngoplasty. This paper touches neither. It's Genio data from eleven patients. It has nothing on Inspire candidacy, drug-induced sleep endoscopy, or palate surgery, and I won't quote its numbers to an Inspire patient.
-
-The decisions it affects are narrower. When a patient asks about the bilateral device, my counseling stays where Patel and Heiser leave it: there is no demonstrated efficacy advantage over unilateral stimulation, and the safety record is less mature. DREAM adds device-specific failure modes, including migration. When a patient with a Genio implant needs imaging of the floor of mouth or tongue base, I now know what to expect. Plain films show the hardware cleanly. CT will carry artifact, compounded by dental work, and the authors advise reformatting in at least two planes. This is an older population where head and neck cancer workup will come up, as the authors point out, so it's worth telling the radiologist up front.
-
-What I teach residents in the operating room and clinic is this. A symmetric film is not a prediction of success, and an asymmetric one is not grounds for revision. The trigger for workup is failure to activate or failure to respond, not the picture.
-
-My confidence is high that this doesn't touch Inspire practice. It's moderate on the imaging advice, because that rests on eight CT scans in patients who all had dental implants. What would move me? A larger bilateral series with day-one and activation-visit films, linked to thresholds and twelve-month A-H-I. If a day-one film predicted migration or activation failure, that baseline would become actionable. That's the watch.
-
-The citation: Kilgue, Gehl, Abolmaali, Scholtz, Scherl and Todt. Post-operative radiological evaluation of a bilateral hypoglossal nerve stimulation system. Frontiers in Surgery, 2026, volume 13, article 1818247.
-
-Residents, what's your one takeaway?
-
-See you in the OR or clinic.</itunes:summary>
-      <enclosure url="https://op3.dev/e,pg=a8f632d4-b280-5622-8f4e-25f719757a04/rnordxx1.github.io/osa-paper-podcast/episodes/2026-10-11-Post-Operative-Radiological-Evaluation-of-a-Bilateral-Hypoglossal.mp3" length="5207419" type="audio/mpeg"/>
-      <guid isPermaLink="false">osa-paper-podcast-c3e9f281</guid>
-      <pubDate>Sun, 11 Oct 2026 05:46:33 -0400</pubDate>
-      <itunes:duration>0:14:26</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Ryan Nord, MD</itunes:author>
-      <link>https://doi.org/10.3389/fsurg.2026.1818247</link>
     </item>
     <item>
       <title>Auditory Perceptions Associated With Hypoglossal Nerve Stimulation for Obstructive Sleep Apnea</title>
