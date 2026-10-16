@@ -1,5 +1,22 @@
 [
  {
+  "id": "f1f789b4",
+  "date": "2026-10-16",
+  "title": "Uvulopalatopharyngoplasty Versus Expansion Sphincter Pharyngoplasty - A Single Centre Experience",
+  "authors": "Steinbichler TB, Bender B, Hartl R, Strasser V, Sontheimer D, Buricic S, et al.",
+  "journal": "Clocks & Sleep",
+  "year": "2025",
+  "doi": "10.3390/clockssleep7030038",
+  "pmid": "40843662",
+  "blurb": "A retrospective single-center study from the Medical University of Innsbruck compared expansion sphincter pharyngoplasty with a muscle-sparing uvulopalatopharyngoplasty in patients with snoring or obstructive sleep apnea, with the operation chosen by drug-induced sedation endoscopy findings. Expansion sphincter pharyngoplasty significantly lowered the apnea-hypopnea index, to about 13 events per hour, while the uvulopalatopharyngoplasty group's fall was not significant; expansion sphincter pharyngoplasty also brought more minor bleeding and more strong pain medication. The study adds independent support for palate operations that reshape the lateral pharyngeal wall and gives frank morbidity numbers for counseling, but it cannot prove superiority and does not test barbed reposition pharyngoplasty.",
+  "audio": "https://op3.dev/e,pg=a8f632d4-b280-5622-8f4e-25f719757a04/rnordxx1.github.io/osa-paper-podcast/episodes/2026-10-16-Uvulopalatopharyngoplasty-Versus-Expansion-Sphincter-Pharyngoplasty-A.mp3",
+  "bytes": 4991572,
+  "duration": 830,
+  "minutes": 14,
+  "page": "https://rnordxx1.github.io/osa-paper-podcast/#ep-f1f789b4",
+  "guid": "osa-paper-podcast-f1f789b4"
+ },
+ {
   "id": "f8680397",
   "date": "2026-10-15",
   "title": "Auditory Perceptions Associated With Hypoglossal Nerve Stimulation for Obstructive Sleep Apnea",
