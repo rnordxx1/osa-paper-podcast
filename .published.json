@@ -77,12 +77,6 @@
   "duration": 799,
   "uploaded": "2026-10-18T04:45:10"
  },
- "a24da574": {
-  "asset": "2026-10-19-A-Randomized-Trial-of-Nefopam-for-Postoperative.mp3",
-  "bytes": 4830780,
-  "duration": 804,
-  "uploaded": "2026-10-19T07:56:23"
- },
  "d5600a9b": {
   "asset": "2026-10-20-Association-Between-Perioperative-Celecoxib-Acetaminophen-and-Opioid.mp3",
   "bytes": 5060530,
@@ -94,5 +88,11 @@
   "bytes": 4629335,
   "duration": 770,
   "uploaded": "2026-10-21T04:52:37"
+ },
+ "a24da574": {
+  "asset": "2026-10-21-A-Randomized-Trial-of-Nefopam-for-Postoperative.mp3",
+  "bytes": 5156329,
+  "duration": 858,
+  "uploaded": "2026-10-21T19:37:40"
  }
 }
