@@ -7,7 +7,7 @@
     <atom:link href="https://rnordxx1.github.io/osa-paper-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <copyright>&#169; 2026 Ryan Nord, MD</copyright>
-    <lastBuildDate>Wed, 21 Oct 2026 19:37:40 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 08:24:15 -0400</lastBuildDate>
     <description>Every day, one new paper on obstructive sleep apnea surgery: hypoglossal nerve stimulation, palate surgery including barbed reposition pharyngoplasty, tongue base, skeletal and nasal procedures, patient selection and comparators. Every episode summarizes the paper, walks through it as a teaching round, places it against a 440-paper evidence library, and ends with whether it should change practice.
 
 Episodes are written and narrated by an AI system working from the full text of each paper and the host's curated library of digests, under rules set by the host. They are reviewed for teaching, not for patient care. Nothing here is medical advice.
@@ -30,6 +30,60 @@ Produced by Ryan Nord, MD (VCU Health). Disclosures: consultant to AvivoMed; pre
     <itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Proximal Hypoglossal Nerve Stimulation for Obstructive Sleep Apnea in the OSPREY Study : A Randomized Controlled Trial</title>
+      <itunes:title>Proximal Hypoglossal Nerve Stimulation for Obstructive Sleep Apnea in the OSPREY Study : A Randomized Controlled Trial</itunes:title>
+      <description>Here is the take-home point. Nearly six in ten treated patients met the response bar at seven months, against roughly one in seven with the device switched off. That is a real, randomized effect, for an investigational proximal device made by LivaNova.
+
+For a high-volume Inspire implanter, as in Dr. Nord's practice, the decision this paper touches is counseling. Picture a patient who cannot tolerate positive airway pressure and asks about every implant option.
+
+So what does the paper add? First, that patient can now be told that a different, investigational implant has a randomized trial behind it. Name the device. Say it is not approved in the United States. Explain that the control was a switched-off device, not a sham.
+
+Second, never quote fifty-eight percent as an Inspire number. It comes from a different device, a different stimulation site on the nerve, and a different selection pathway.
+
+Third, it sharpens expectation setting for any stimulator. Residual mild disease is common, and about four in ten treated patients did not meet the bar.
+
+Fourth, there is an easy number to quote about weight. Everyone enrolled had a body mass index of thirty-five or lower, and the average was about thirty-one. These results apply to that range.
+
+Fifth, only about one in ten consenting patients reached randomization. Strict selection sits behind this trial's numbers.
+
+Then there is the patient turned down for Inspire because of complete concentric collapse. This trial does not support telling that patient a proximal device would work, because collapse pattern was never assessed. The Inspire candidacy pathway, including DISE, still applies.
+
+Confidence is high that, in this selected group, stimulation beats a switched-off device at seven months. It is lower for durability, collapse pattern and hard outcomes. Several things would move it: outcomes by collapse pattern, a head-to-head comparison with Inspire, longer controlled follow-up, and a United States approval decision. Until then, this is one to watch.
+
+What's your one takeaway from this paper?
+
+Paper: Malhotra A, Schwartz AR, Lovett E, Juran N, Nguyen SA, Barrera JE, et al. Proximal Hypoglossal Nerve Stimulation for Obstructive Sleep Apnea in the OSPREY Study : A Randomized Controlled Trial. *Ann Intern Med*. 2026;179(6):812-822. doi:10.7326/ANNALS-25-04414 `[LivaNova aura6000 (OSPREY)]`
+https://doi.org/10.7326/annals-25-04414</description>
+      <content:encoded><![CDATA[<p>Here is the take-home point. Nearly six in ten treated patients met the response bar at seven months, against roughly one in seven with the device switched off. That is a real, randomized effect, for an investigational proximal device made by LivaNova.</p><p>For a high-volume Inspire implanter, as in Dr. Nord&#x27;s practice, the decision this paper touches is counseling. Picture a patient who cannot tolerate positive airway pressure and asks about every implant option.</p><p>So what does the paper add? First, that patient can now be told that a different, investigational implant has a randomized trial behind it. Name the device. Say it is not approved in the United States. Explain that the control was a switched-off device, not a sham.</p><p>Second, never quote fifty-eight percent as an Inspire number. It comes from a different device, a different stimulation site on the nerve, and a different selection pathway.</p><p>Third, it sharpens expectation setting for any stimulator. Residual mild disease is common, and about four in ten treated patients did not meet the bar.</p><p>Fourth, there is an easy number to quote about weight. Everyone enrolled had a body mass index of thirty-five or lower, and the average was about thirty-one. These results apply to that range.</p><p>Fifth, only about one in ten consenting patients reached randomization. Strict selection sits behind this trial&#x27;s numbers.</p><p>Then there is the patient turned down for Inspire because of complete concentric collapse. This trial does not support telling that patient a proximal device would work, because collapse pattern was never assessed. The Inspire candidacy pathway, including DISE, still applies.</p><p>Confidence is high that, in this selected group, stimulation beats a switched-off device at seven months. It is lower for durability, collapse pattern and hard outcomes. Several things would move it: outcomes by collapse pattern, a head-to-head comparison with Inspire, longer controlled follow-up, and a United States approval decision. Until then, this is one to watch.</p><p>What&#x27;s your one takeaway from this paper?</p><p>Paper: Malhotra A, Schwartz AR, Lovett E, Juran N, Nguyen SA, Barrera JE, et al. Proximal Hypoglossal Nerve Stimulation for Obstructive Sleep Apnea in the OSPREY Study : A Randomized Controlled Trial. *Ann Intern Med*. 2026;179(6):812-822. doi:10.7326/ANNALS-25-04414 `[LivaNova aura6000 (OSPREY)]`
+https://doi.org/10.7326/annals-25-04414</p>]]></content:encoded>
+      <itunes:summary>Here is the take-home point. Nearly six in ten treated patients met the response bar at seven months, against roughly one in seven with the device switched off. That is a real, randomized effect, for an investigational proximal device made by LivaNova.
+
+For a high-volume Inspire implanter, as in Dr. Nord's practice, the decision this paper touches is counseling. Picture a patient who cannot tolerate positive airway pressure and asks about every implant option.
+
+So what does the paper add? First, that patient can now be told that a different, investigational implant has a randomized trial behind it. Name the device. Say it is not approved in the United States. Explain that the control was a switched-off device, not a sham.
+
+Second, never quote fifty-eight percent as an Inspire number. It comes from a different device, a different stimulation site on the nerve, and a different selection pathway.
+
+Third, it sharpens expectation setting for any stimulator. Residual mild disease is common, and about four in ten treated patients did not meet the bar.
+
+Fourth, there is an easy number to quote about weight. Everyone enrolled had a body mass index of thirty-five or lower, and the average was about thirty-one. These results apply to that range.
+
+Fifth, only about one in ten consenting patients reached randomization. Strict selection sits behind this trial's numbers.
+
+Then there is the patient turned down for Inspire because of complete concentric collapse. This trial does not support telling that patient a proximal device would work, because collapse pattern was never assessed. The Inspire candidacy pathway, including DISE, still applies.
+
+Confidence is high that, in this selected group, stimulation beats a switched-off device at seven months. It is lower for durability, collapse pattern and hard outcomes. Several things would move it: outcomes by collapse pattern, a head-to-head comparison with Inspire, longer controlled follow-up, and a United States approval decision. Until then, this is one to watch.
+
+What's your one takeaway from this paper?</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=a8f632d4-b280-5622-8f4e-25f719757a04/rnordxx1.github.io/osa-paper-podcast/episodes/2026-10-24-Proximal-Hypoglossal-Nerve-Stimulation-for-Obstructive-Sleep.mp3" length="4947272" type="audio/mpeg"/>
+      <guid isPermaLink="false">osa-paper-podcast-9357e129</guid>
+      <pubDate>Sat, 24 Oct 2026 08:24:12 -0400</pubDate>
+      <itunes:duration>0:13:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Ryan Nord, MD</itunes:author>
+      <link>https://doi.org/10.7326/annals-25-04414</link>
+    </item>
     <item>
       <title>A Randomized Trial of Nefopam for Postoperative Pain Management in Obstructive Sleep Apnea Patients Undergoing Uvulopalatopharyngoplasty</title>
       <itunes:title>A Randomized Trial of Nefopam for Postoperative Pain Management in Obstructive Sleep Apnea Patients Undergoing Uvulopalatopharyngoplasty</itunes:title>
