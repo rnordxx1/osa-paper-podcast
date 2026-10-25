@@ -7,7 +7,7 @@
     <atom:link href="https://rnordxx1.github.io/osa-paper-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <copyright>&#169; 2026 Ryan Nord, MD</copyright>
-    <lastBuildDate>Sat, 24 Oct 2026 09:00:06 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 04:47:53 -0400</lastBuildDate>
     <description>Every day, one new paper on obstructive sleep apnea surgery: hypoglossal nerve stimulation, palate surgery including barbed reposition pharyngoplasty, tongue base, skeletal and nasal procedures, patient selection and comparators. Every episode summarizes the paper, walks through it as a teaching round, places it against a 440-paper evidence library, and ends with whether it should change practice.
 
 Episodes are written and narrated by an AI system working from the full text of each paper and the host's curated library of digests, under rules set by the host. They are reviewed for teaching, not for patient care. Nothing here is medical advice.
@@ -30,6 +30,52 @@ Produced by Ryan Nord, MD (VCU Health). Disclosures: consultant to AvivoMed; pre
     <itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Hypoglossal Nerve Stimulation and Hypoxic Burden in Patients With Obstructive Sleep Apnea: A Secondary Analysis of the STAR Trial</title>
+      <itunes:title>Hypoglossal Nerve Stimulation and Hypoxic Burden in Patients With Obstructive Sleep Apnea: A Secondary Analysis of the STAR Trial</itunes:title>
+      <description>The take-home point is the headline one more time. In a cohort without a control arm, hypoglossal nerve stimulation was associated with a median reduction in hypoxic burden of about three quarters, seventy-six point six percent, at one year.
+
+What does it add to the decision? It doesn't help pick candidates. Baseline burden didn't separate responders from nonresponders in the Op de Beeck work, so candidacy still rests on the usual criteria.
+
+What it adds is counseling and follow-up. A fair line for patients: in a STAR analysis of one hundred and eight patients, the typical patient's oxygen burden fell about three quarters at a year. Then say the caveats out loud. It was an older device, no heart events were measured, and the gains depended on nightly use. Don't tell a patient that Inspire protects the heart.
+
+For the AHI nonresponder, it adds nuance. Dr. Nord's practice treats drug-induced sleep endoscopy, DISE, as a good tool once awake endoscopy and reprogramming have failed. Before that conversation, this paper is a reason to look at the oxygen data too, because a partial responder may still be gaining. Hold that loosely. Van Loo's nonresponders showed no significant gain, and there's no validated hypoxic burden cutoff.
+
+Weight belongs in the same conversation. These oxygen gains came with little change in body mass index. For patients, two figures help. In a twenty twenty-four Malhotra meta-regression in Sleep Medicine, funded by Lilly, a ten percent drop in body mass index matched about a thirty-six percent drop in the AHI. And in the ADHERE registry, from Heiser's group in the European Respiratory Journal in twenty nineteen, each one-point rise in body mass index meant about nine percent lower odds of Inspire success. Still, weight loss, including glucagon-like peptide one drugs, sits alongside Inspire as part of multimodal treatment, often both together. Many Inspire patients are already on these drugs or will become candidates for them.
+
+How confident should we be? Fairly confident in the direction, less so in the size. What would move it is a controlled study, current hardware and hard outcomes. The authors note the STAR device has since been modified, and there are no published Inspire V outcomes yet.
+
+Again, that's Azarbarzin's group at Brigham and Women's Hospital, in JAMA Otolaryngology Head and Neck Surgery, twenty twenty-six.
+
+What's your one takeaway from this paper?
+
+Paper: Xu J, Hajipour Z, Aloia MS, de Beeck SO, Vanderveken OM, Huyett P, et al. Hypoglossal Nerve Stimulation and Hypoxic Burden in Patients With Obstructive Sleep Apnea: A Secondary Analysis of the STAR Trial. *JAMA Otolaryngol Head Neck Surg*. 2026;152(7):696-704. doi:10.1001/jamaoto.2026.1049
+https://doi.org/10.1001/jamaoto.2026.1049</description>
+      <content:encoded><![CDATA[<p>The take-home point is the headline one more time. In a cohort without a control arm, hypoglossal nerve stimulation was associated with a median reduction in hypoxic burden of about three quarters, seventy-six point six percent, at one year.</p><p>What does it add to the decision? It doesn&#x27;t help pick candidates. Baseline burden didn&#x27;t separate responders from nonresponders in the Op de Beeck work, so candidacy still rests on the usual criteria.</p><p>What it adds is counseling and follow-up. A fair line for patients: in a STAR analysis of one hundred and eight patients, the typical patient&#x27;s oxygen burden fell about three quarters at a year. Then say the caveats out loud. It was an older device, no heart events were measured, and the gains depended on nightly use. Don&#x27;t tell a patient that Inspire protects the heart.</p><p>For the AHI nonresponder, it adds nuance. Dr. Nord&#x27;s practice treats drug-induced sleep endoscopy, DISE, as a good tool once awake endoscopy and reprogramming have failed. Before that conversation, this paper is a reason to look at the oxygen data too, because a partial responder may still be gaining. Hold that loosely. Van Loo&#x27;s nonresponders showed no significant gain, and there&#x27;s no validated hypoxic burden cutoff.</p><p>Weight belongs in the same conversation. These oxygen gains came with little change in body mass index. For patients, two figures help. In a twenty twenty-four Malhotra meta-regression in Sleep Medicine, funded by Lilly, a ten percent drop in body mass index matched about a thirty-six percent drop in the AHI. And in the ADHERE registry, from Heiser&#x27;s group in the European Respiratory Journal in twenty nineteen, each one-point rise in body mass index meant about nine percent lower odds of Inspire success. Still, weight loss, including glucagon-like peptide one drugs, sits alongside Inspire as part of multimodal treatment, often both together. Many Inspire patients are already on these drugs or will become candidates for them.</p><p>How confident should we be? Fairly confident in the direction, less so in the size. What would move it is a controlled study, current hardware and hard outcomes. The authors note the STAR device has since been modified, and there are no published Inspire V outcomes yet.</p><p>Again, that&#x27;s Azarbarzin&#x27;s group at Brigham and Women&#x27;s Hospital, in JAMA Otolaryngology Head and Neck Surgery, twenty twenty-six.</p><p>What&#x27;s your one takeaway from this paper?</p><p>Paper: Xu J, Hajipour Z, Aloia MS, de Beeck SO, Vanderveken OM, Huyett P, et al. Hypoglossal Nerve Stimulation and Hypoxic Burden in Patients With Obstructive Sleep Apnea: A Secondary Analysis of the STAR Trial. *JAMA Otolaryngol Head Neck Surg*. 2026;152(7):696-704. doi:10.1001/jamaoto.2026.1049
+https://doi.org/10.1001/jamaoto.2026.1049</p>]]></content:encoded>
+      <itunes:summary>The take-home point is the headline one more time. In a cohort without a control arm, hypoglossal nerve stimulation was associated with a median reduction in hypoxic burden of about three quarters, seventy-six point six percent, at one year.
+
+What does it add to the decision? It doesn't help pick candidates. Baseline burden didn't separate responders from nonresponders in the Op de Beeck work, so candidacy still rests on the usual criteria.
+
+What it adds is counseling and follow-up. A fair line for patients: in a STAR analysis of one hundred and eight patients, the typical patient's oxygen burden fell about three quarters at a year. Then say the caveats out loud. It was an older device, no heart events were measured, and the gains depended on nightly use. Don't tell a patient that Inspire protects the heart.
+
+For the AHI nonresponder, it adds nuance. Dr. Nord's practice treats drug-induced sleep endoscopy, DISE, as a good tool once awake endoscopy and reprogramming have failed. Before that conversation, this paper is a reason to look at the oxygen data too, because a partial responder may still be gaining. Hold that loosely. Van Loo's nonresponders showed no significant gain, and there's no validated hypoxic burden cutoff.
+
+Weight belongs in the same conversation. These oxygen gains came with little change in body mass index. For patients, two figures help. In a twenty twenty-four Malhotra meta-regression in Sleep Medicine, funded by Lilly, a ten percent drop in body mass index matched about a thirty-six percent drop in the AHI. And in the ADHERE registry, from Heiser's group in the European Respiratory Journal in twenty nineteen, each one-point rise in body mass index meant about nine percent lower odds of Inspire success. Still, weight loss, including glucagon-like peptide one drugs, sits alongside Inspire as part of multimodal treatment, often both together. Many Inspire patients are already on these drugs or will become candidates for them.
+
+How confident should we be? Fairly confident in the direction, less so in the size. What would move it is a controlled study, current hardware and hard outcomes. The authors note the STAR device has since been modified, and there are no published Inspire V outcomes yet.
+
+Again, that's Azarbarzin's group at Brigham and Women's Hospital, in JAMA Otolaryngology Head and Neck Surgery, twenty twenty-six.
+
+What's your one takeaway from this paper?</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=a8f632d4-b280-5622-8f4e-25f719757a04/rnordxx1.github.io/osa-paper-podcast/episodes/2026-10-25-Hypoglossal-Nerve-Stimulation-and-Hypoxic-Burden-in.mp3" length="4882627" type="audio/mpeg"/>
+      <guid isPermaLink="false">osa-paper-podcast-d065c7e2</guid>
+      <pubDate>Sun, 25 Oct 2026 05:47:50 -0400</pubDate>
+      <itunes:duration>0:13:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Ryan Nord, MD</itunes:author>
+      <link>https://doi.org/10.1001/jamaoto.2026.1049</link>
+    </item>
     <item>
       <title>Proximal Hypoglossal Nerve Stimulation for Obstructive Sleep Apnea in the OSPREY Study: A Randomized Controlled Trial</title>
       <itunes:title>Proximal Hypoglossal Nerve Stimulation for Obstructive Sleep Apnea in the OSPREY Study: A Randomized Controlled Trial</itunes:title>
