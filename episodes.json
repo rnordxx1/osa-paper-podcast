@@ -1,5 +1,22 @@
 [
  {
+  "id": "a17b4015",
+  "date": "2026-10-29",
+  "title": "Deep Learning-Based Automatic Scoring of Drug-Induced Sleep Endoscopy in Obstructive Sleep Apnea",
+  "authors": "Kim JY, Mun SJ, Baik YS, Lee YS, Kim YJ, Oh J, et al.",
+  "journal": "npj Digital Medicine",
+  "year": "2026",
+  "doi": "10.1038/s41746-026-02673-8",
+  "pmid": "",
+  "blurb": "A five-hospital Korean study asked whether a deep learning model could grade drug-induced sleep endoscopy videos the way an expert panel does, scoring both the degree of airway obstruction and its primary cause. On videos from hospitals not used in training, the model matched expert grading of soft palate obstruction in 82.4 percent of 717 clips, with weaker performance lower in the airway, especially at the epiglottis. It is a tool to watch: it cannot grade concentric collapse and has not been linked to treatment outcomes, so it does not yet inform hypoglossal nerve stimulation candidacy.",
+  "audio": "https://op3.dev/e,pg=a8f632d4-b280-5622-8f4e-25f719757a04/rnordxx1.github.io/osa-paper-podcast/episodes/2026-10-29-Deep-Learning-Based-Automatic-Scoring-of-Drug-Induced-Sleep.mp3",
+  "bytes": 4944378,
+  "duration": 822,
+  "minutes": 14,
+  "page": "https://rnordxx1.github.io/osa-paper-podcast/#ep-a17b4015",
+  "guid": "osa-paper-podcast-a17b4015"
+ },
+ {
   "id": "8640f927",
   "date": "2026-10-28",
   "title": "Subjective and objective measures of sleep-related function from the Cardiovascular Endpoints For Obstructive Sleep Apnea with Twelfth Cranial Nerve Stimulation (CARDIOSA-12) trial: Sleep-related functional outcomes in CARDIOSA-12",
