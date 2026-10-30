@@ -1,5 +1,22 @@
 [
  {
+  "id": "c7604ef5",
+  "date": "2026-10-30",
+  "title": "Anthropometric Measurements Inform Complete Concentric Collapse Status in Patients With Obstructive Sleep Apnea",
+  "authors": "Weiner JS, Chio EG, Dedhia RC, Huntley CT, Hutz MJ, Huyett P, et al.",
+  "journal": "OTO Open",
+  "year": "2026",
+  "doi": "10.1002/oto2.70245",
+  "pmid": "42095116",
+  "blurb": "A prospective multicenter study asked whether body mass index, neck circumference and awake pharyngeal width can predict complete concentric collapse on drug-induced sleep endoscopy in candidates for hypoglossal nerve stimulation. A decision tree combining body mass index and neck circumference was right 96 percent of the time when it predicted no collapse, only modestly better than assuming no one has it, and the study reported no implant outcomes. Sleep endoscopy remains the standard for candidacy, and this screening approach is one to watch. The study was funded by Inspire Medical Systems.",
+  "audio": "https://op3.dev/e,pg=a8f632d4-b280-5622-8f4e-25f719757a04/rnordxx1.github.io/osa-paper-podcast/episodes/2026-10-30-Anthropometric-Measurements-Inform-Complete-Concentric-Collapse-Status.mp3",
+  "bytes": 4651519,
+  "duration": 774,
+  "minutes": 13,
+  "page": "https://rnordxx1.github.io/osa-paper-podcast/#ep-c7604ef5",
+  "guid": "osa-paper-podcast-c7604ef5"
+ },
+ {
   "id": "a17b4015",
   "date": "2026-10-29",
   "title": "Deep Learning-Based Automatic Scoring of Drug-Induced Sleep Endoscopy in Obstructive Sleep Apnea",
