@@ -7,7 +7,7 @@
     <atom:link href="https://rnordxx1.github.io/osa-paper-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <copyright>&#169; 2026 Ryan Nord, MD</copyright>
-    <lastBuildDate>Fri, 30 Oct 2026 09:40:08 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 04:48:52 -0500</lastBuildDate>
     <description>Every day, one new paper on obstructive sleep apnea surgery: hypoglossal nerve stimulation, palate surgery including barbed reposition pharyngoplasty, tongue base, skeletal and nasal procedures, patient selection and comparators. Every episode summarizes the paper, walks through it as a teaching round, places it against a 440-paper evidence library, and ends with whether it should change practice.
 
 Episodes are written and narrated by an AI system working from the full text of each paper and the host's curated library of digests, under rules set by the host. They are reviewed for teaching, not for patient care. Nothing here is medical advice.
@@ -30,6 +30,56 @@ Produced by Ryan Nord, MD (VCU Health). Disclosures: consultant to AvivoMed; pre
     <itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Association Between Body Mass Index and Unilateral Hypoglossal Nerve Stimulation Efficacy Depends on the Pattern of Pharyngeal Collapse in Obstructive Sleep Apnea</title>
+      <itunes:title>Association Between Body Mass Index and Unilateral Hypoglossal Nerve Stimulation Efficacy Depends on the Pattern of Pharyngeal Collapse in Obstructive Sleep Apnea</itunes:title>
+      <description>The take-home point: read body mass index through the DISE pattern, not on its own.
+
+One more time, the number to remember. In lateral-wall patients, every five extra points of body mass index went with about twenty points less A-H-I reduction. In anteroposterior patients, it was about four points, and not statistically significant.
+
+The decision this touches is counseling a candidate whose DISE shows complete lateral wall collapse or C-C-C, with a body mass index in the thirties. The paper doesn't move anyone in or out of candidacy by itself. It adds a reason to set expectations more carefully for that patient than for an anteroposterior patient at the same weight. For anteroposterior patients, the relaxed body mass index ceilings look better supported, but only up to about thirty-five; above that there are almost no data.
+
+In Dr. Nord's practice, DISE is part of the Inspire candidacy workup, and weight loss, including glucagon-like peptide-1, or GLP-1, drugs, sits alongside Inspire as part of multimodal treatment, often both rather than either one.
+
+Here are figures you can quote in clinic. About three in four anteroposterior patients reached success, whether their body mass index was above or below twenty-nine. In lateral-wall patients above twenty-nine, about half did. At or below twenty-nine, about seven in ten did, but that was only seventeen patients. Success meant at least halving the A-H-I, to below fifteen, at four to six months.
+
+The authors also say that for lateral-wall patients, modest weight gain could substantially reduce efficacy. So weight counseling belongs in that conversation, and body mass index belongs on every follow-up visit. Write in the DISE report whether lateral wall collapse is complete, and whether C-C-C is present.
+
+Keep the device in mind. The paper doesn't name it, and Inspire V has no published outcomes yet.
+
+My confidence is moderate in the direction and low in the size of the lateral-wall effect. A prospective cohort outside this author group would move it, especially one with more C-C-C patients, more patients above thirty-five, and weight tracked over time.
+
+What's your one takeaway from this paper?
+
+Paper: Vena D, Kezirian EJ, Wellman A, Kent D, D’Agostino M, Monteiro JLGC, et al. Association between body mass index and unilateral hypoglossal nerve stimulation efficacy depends on the pattern of pharyngeal collapse in obstructive sleep apnea. *American Journal of Respiratory and Critical Care Medicine*. 2026;. doi:10.1093/ajrccm/aamag427
+https://doi.org/10.1093/ajrccm/aamag427</description>
+      <content:encoded><![CDATA[<p>The take-home point: read body mass index through the DISE pattern, not on its own.</p><p>One more time, the number to remember. In lateral-wall patients, every five extra points of body mass index went with about twenty points less A-H-I reduction. In anteroposterior patients, it was about four points, and not statistically significant.</p><p>The decision this touches is counseling a candidate whose DISE shows complete lateral wall collapse or C-C-C, with a body mass index in the thirties. The paper doesn&#x27;t move anyone in or out of candidacy by itself. It adds a reason to set expectations more carefully for that patient than for an anteroposterior patient at the same weight. For anteroposterior patients, the relaxed body mass index ceilings look better supported, but only up to about thirty-five; above that there are almost no data.</p><p>In Dr. Nord&#x27;s practice, DISE is part of the Inspire candidacy workup, and weight loss, including glucagon-like peptide-1, or GLP-1, drugs, sits alongside Inspire as part of multimodal treatment, often both rather than either one.</p><p>Here are figures you can quote in clinic. About three in four anteroposterior patients reached success, whether their body mass index was above or below twenty-nine. In lateral-wall patients above twenty-nine, about half did. At or below twenty-nine, about seven in ten did, but that was only seventeen patients. Success meant at least halving the A-H-I, to below fifteen, at four to six months.</p><p>The authors also say that for lateral-wall patients, modest weight gain could substantially reduce efficacy. So weight counseling belongs in that conversation, and body mass index belongs on every follow-up visit. Write in the DISE report whether lateral wall collapse is complete, and whether C-C-C is present.</p><p>Keep the device in mind. The paper doesn&#x27;t name it, and Inspire V has no published outcomes yet.</p><p>My confidence is moderate in the direction and low in the size of the lateral-wall effect. A prospective cohort outside this author group would move it, especially one with more C-C-C patients, more patients above thirty-five, and weight tracked over time.</p><p>What&#x27;s your one takeaway from this paper?</p><p>Paper: Vena D, Kezirian EJ, Wellman A, Kent D, D’Agostino M, Monteiro JLGC, et al. Association between body mass index and unilateral hypoglossal nerve stimulation efficacy depends on the pattern of pharyngeal collapse in obstructive sleep apnea. *American Journal of Respiratory and Critical Care Medicine*. 2026;. doi:10.1093/ajrccm/aamag427
+https://doi.org/10.1093/ajrccm/aamag427</p>]]></content:encoded>
+      <itunes:summary>The take-home point: read body mass index through the DISE pattern, not on its own.
+
+One more time, the number to remember. In lateral-wall patients, every five extra points of body mass index went with about twenty points less A-H-I reduction. In anteroposterior patients, it was about four points, and not statistically significant.
+
+The decision this touches is counseling a candidate whose DISE shows complete lateral wall collapse or C-C-C, with a body mass index in the thirties. The paper doesn't move anyone in or out of candidacy by itself. It adds a reason to set expectations more carefully for that patient than for an anteroposterior patient at the same weight. For anteroposterior patients, the relaxed body mass index ceilings look better supported, but only up to about thirty-five; above that there are almost no data.
+
+In Dr. Nord's practice, DISE is part of the Inspire candidacy workup, and weight loss, including glucagon-like peptide-1, or GLP-1, drugs, sits alongside Inspire as part of multimodal treatment, often both rather than either one.
+
+Here are figures you can quote in clinic. About three in four anteroposterior patients reached success, whether their body mass index was above or below twenty-nine. In lateral-wall patients above twenty-nine, about half did. At or below twenty-nine, about seven in ten did, but that was only seventeen patients. Success meant at least halving the A-H-I, to below fifteen, at four to six months.
+
+The authors also say that for lateral-wall patients, modest weight gain could substantially reduce efficacy. So weight counseling belongs in that conversation, and body mass index belongs on every follow-up visit. Write in the DISE report whether lateral wall collapse is complete, and whether C-C-C is present.
+
+Keep the device in mind. The paper doesn't name it, and Inspire V has no published outcomes yet.
+
+My confidence is moderate in the direction and low in the size of the lateral-wall effect. A prospective cohort outside this author group would move it, especially one with more C-C-C patients, more patients above thirty-five, and weight tracked over time.
+
+What's your one takeaway from this paper?</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=a8f632d4-b280-5622-8f4e-25f719757a04/rnordxx1.github.io/osa-paper-podcast/episodes/2026-11-01-Association-Between-Body-Mass-Index-and-Unilateral.mp3" length="4991362" type="audio/mpeg"/>
+      <guid isPermaLink="false">osa-paper-podcast-e63024b5</guid>
+      <pubDate>Sun, 01 Nov 2026 05:48:45 -0500</pubDate>
+      <itunes:duration>0:13:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Ryan Nord, MD</itunes:author>
+      <link>https://doi.org/10.1093/ajrccm/aamag427</link>
+    </item>
     <item>
       <title>Anthropometric Measurements Inform Complete Concentric Collapse Status in Patients With Obstructive Sleep Apnea</title>
       <itunes:title>Anthropometric Measurements Inform Complete Concentric Collapse Status in Patients With Obstructive Sleep Apnea</itunes:title>
