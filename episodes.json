@@ -1,5 +1,22 @@
 [
  {
+  "id": "4d72d740",
+  "date": "2026-11-02",
+  "title": "Physiologic Mechanisms of Response to Hypoglossal Nerve Stimulation",
+  "authors": "Magaña LC, Dixit Y, Saconi B, Keenan BT, Seay EG, Schwartz AR, et al.",
+  "journal": "Sleep",
+  "year": "2026",
+  "doi": "10.1093/sleep/zsag227",
+  "pmid": "42640931",
+  "blurb": "A University of Pennsylvania study in the journal SLEEP asked why some patients respond to hypoglossal nerve stimulation and others do not. The researchers measured airway opening pressure and breathing effort during drug-induced sleep endoscopy with the Inspire stimulator off and then on. In 30 implanted patients, the more the airway opened with stimulation, the more the supine apnea-hypopnea index fell, although measurements taken before stimulation did not separate responders from nonresponders. Because every measurement was made after implantation, the pressure measures sharpen what to look for at drug-induced sleep endoscopy in patients who do not respond, but they are not yet a test for choosing candidates.",
+  "audio": "https://op3.dev/e,pg=a8f632d4-b280-5622-8f4e-25f719757a04/rnordxx1.github.io/osa-paper-podcast/episodes/2026-11-02-Physiologic-Mechanisms-of-Response-to-Hypoglossal-Nerve.mp3",
+  "bytes": 4851813,
+  "duration": 807,
+  "minutes": 13,
+  "page": "https://rnordxx1.github.io/osa-paper-podcast/#ep-4d72d740",
+  "guid": "osa-paper-podcast-4d72d740"
+ },
+ {
   "id": "e63024b5",
   "date": "2026-11-01",
   "title": "Association Between Body Mass Index and Unilateral Hypoglossal Nerve Stimulation Efficacy Depends on the Pattern of Pharyngeal Collapse in Obstructive Sleep Apnea",
