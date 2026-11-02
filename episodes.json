@@ -8,10 +8,10 @@
   "year": "2026",
   "doi": "10.1093/sleep/zsag227",
   "pmid": "42640931",
-  "blurb": "A University of Pennsylvania study in the journal SLEEP asked why some patients respond to hypoglossal nerve stimulation and others do not. The researchers measured airway opening pressure and breathing effort during drug-induced sleep endoscopy with the Inspire stimulator off and then on. In 30 implanted patients, the more the airway opened with stimulation, the more the supine apnea-hypopnea index fell, although measurements taken before stimulation did not separate responders from nonresponders. Because every measurement was made after implantation, the pressure measures sharpen what to look for at drug-induced sleep endoscopy in patients who do not respond, but they are not yet a test for choosing candidates.",
+  "blurb": "Researchers at the University of Pennsylvania asked whether airway physiology measured during drug-induced sleep endoscopy explains why some patients respond to hypoglossal nerve stimulation and others do not. In thirty patients with Inspire implants, the drop in airway opening pressure when the stimulator was switched on tracked the fall in the back-sleeping apnea-hypopnea index, with a strong correlation of 0.70, while measurements taken before stimulation did not separate responders from nonresponders. The verdict is watch: the finding helps explain response and frames the endoscopy workup of non-responders, but it does not yet provide a test for choosing patients before implant.",
   "audio": "https://op3.dev/e,pg=a8f632d4-b280-5622-8f4e-25f719757a04/rnordxx1.github.io/osa-paper-podcast/episodes/2026-11-02-Physiologic-Mechanisms-of-Response-to-Hypoglossal-Nerve.mp3",
-  "bytes": 4851813,
-  "duration": 807,
+  "bytes": 4838840,
+  "duration": 805,
   "minutes": 13,
   "page": "https://rnordxx1.github.io/osa-paper-podcast/#ep-4d72d740",
   "guid": "osa-paper-podcast-4d72d740"
