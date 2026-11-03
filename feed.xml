@@ -7,7 +7,7 @@
     <atom:link href="https://rnordxx1.github.io/osa-paper-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <copyright>&#169; 2026 Ryan Nord, MD</copyright>
-    <lastBuildDate>Mon, 02 Nov 2026 09:37:10 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 04:43:27 -0500</lastBuildDate>
     <description>Every day, one new paper on obstructive sleep apnea surgery: hypoglossal nerve stimulation, palate surgery including barbed reposition pharyngoplasty, tongue base, skeletal and nasal procedures, patient selection and comparators. Every episode summarizes the paper, walks through it as a teaching round, places it against a 440-paper evidence library, and ends with whether it should change practice.
 
 Episodes are written and narrated by an AI system working from the full text of each paper and the host's curated library of digests, under rules set by the host. They are reviewed for teaching, not for patient care. Nothing here is medical advice.
@@ -30,6 +30,48 @@ Produced by Ryan Nord, MD (VCU Health). Disclosures: consultant to AvivoMed; pre
     <itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Effect of Novel Hypoglossal Stimulation on Airflow and Airway Collapsibility in OSA</title>
+      <itunes:title>Effect of Novel Hypoglossal Stimulation on Airflow and Airway Collapsibility in OSA</itunes:title>
+      <description>The take-home point. A needle-placed electrode next to the distal hypoglossal nerve turned the airflow back on, almost to CPAP level, in sedated patients. Peak flow reached zero point four one liters per second with stimulation, against zero point four three on CPAP. That held in thirteen of fourteen people. It is a strong physiology signal and a technology to watch. It is not yet a treatment, and it does not alter who is offered an implant today. What it adds is to counseling, and to how we teach electrode position.
+
+On counseling, a patient may ask about a needle-placed nerve stimulator with no implant. The honest answer: this was an acute, sedated, single-session study of fourteen people, with no natural sleep, no A-H-I and no device to take home. Don't carry the authors' under-thirty-minute procedure time into implant counseling, because it compares a temporary lead with a full implant. For context, Inspire V has no separate sensing lead, unlike Inspire IV, but the generator still sits in the chest.
+
+On candidacy, C-C-C on DISE remains an exclusion for Inspire. This paper prints no separate result for its three participants with C-C-C, so it gives no grounds to relax that gate. In Dr. Nord's practice, DISE is part of the Inspire candidacy workup, and a good tool for the non-responder once awake endoscopy and reprogramming have failed. A stimulation trial under DISE may one day add to that workup, but it is untested.
+
+For residents, the teaching point is position. Drive the branches that protrude the tongue and the airway opens. Drift toward a retractor branch and the tongue pulls back and narrows it. That principle holds wherever the electrode sits, including the cuff in the operating room. It is also why electrode configuration matters when an implanted patient doesn't respond.
+
+Confidence is high that the acute physiology is real in this model, and low that it predicts a therapy. What would move it: a natural-sleep study with an A-H-I outcome, a chronic lead that stays put, and C-C-C results reported separately.
+
+The paper is Osman and colleagues, from Eckert's group at Flinders University, "Effect of Novel Hypoglossal Stimulation on Airflow and Airway Collapsibility in O-S-A," CHEST, 2026, volume one hundred sixty-nine, issue one, pages two fifty-seven to two sixty-eight.
+
+Residents, what's your one takeaway from this paper?
+
+Paper: Osman AM, Carney AS, Ooi EH, Joshi H, Toson B, Tran C, Hudson AL, Nguyen P, Gelekis N, Eastwood PR, Catcheside P, Eckert DJ. Effect of Novel Hypoglossal Stimulation on Airflow and Airway Collapsibility in OSA. *CHEST*. 2026;169(1):257-268. doi:10.1016/j.chest.2025.08.020
+https://doi.org/10.1016/j.chest.2025.08.020</description>
+      <content:encoded><![CDATA[<p>The take-home point. A needle-placed electrode next to the distal hypoglossal nerve turned the airflow back on, almost to CPAP level, in sedated patients. Peak flow reached zero point four one liters per second with stimulation, against zero point four three on CPAP. That held in thirteen of fourteen people. It is a strong physiology signal and a technology to watch. It is not yet a treatment, and it does not alter who is offered an implant today. What it adds is to counseling, and to how we teach electrode position.</p><p>On counseling, a patient may ask about a needle-placed nerve stimulator with no implant. The honest answer: this was an acute, sedated, single-session study of fourteen people, with no natural sleep, no A-H-I and no device to take home. Don&#x27;t carry the authors&#x27; under-thirty-minute procedure time into implant counseling, because it compares a temporary lead with a full implant. For context, Inspire V has no separate sensing lead, unlike Inspire IV, but the generator still sits in the chest.</p><p>On candidacy, C-C-C on DISE remains an exclusion for Inspire. This paper prints no separate result for its three participants with C-C-C, so it gives no grounds to relax that gate. In Dr. Nord&#x27;s practice, DISE is part of the Inspire candidacy workup, and a good tool for the non-responder once awake endoscopy and reprogramming have failed. A stimulation trial under DISE may one day add to that workup, but it is untested.</p><p>For residents, the teaching point is position. Drive the branches that protrude the tongue and the airway opens. Drift toward a retractor branch and the tongue pulls back and narrows it. That principle holds wherever the electrode sits, including the cuff in the operating room. It is also why electrode configuration matters when an implanted patient doesn&#x27;t respond.</p><p>Confidence is high that the acute physiology is real in this model, and low that it predicts a therapy. What would move it: a natural-sleep study with an A-H-I outcome, a chronic lead that stays put, and C-C-C results reported separately.</p><p>The paper is Osman and colleagues, from Eckert&#x27;s group at Flinders University, &quot;Effect of Novel Hypoglossal Stimulation on Airflow and Airway Collapsibility in O-S-A,&quot; CHEST, 2026, volume one hundred sixty-nine, issue one, pages two fifty-seven to two sixty-eight.</p><p>Residents, what&#x27;s your one takeaway from this paper?</p><p>Paper: Osman AM, Carney AS, Ooi EH, Joshi H, Toson B, Tran C, Hudson AL, Nguyen P, Gelekis N, Eastwood PR, Catcheside P, Eckert DJ. Effect of Novel Hypoglossal Stimulation on Airflow and Airway Collapsibility in OSA. *CHEST*. 2026;169(1):257-268. doi:10.1016/j.chest.2025.08.020
+https://doi.org/10.1016/j.chest.2025.08.020</p>]]></content:encoded>
+      <itunes:summary>The take-home point. A needle-placed electrode next to the distal hypoglossal nerve turned the airflow back on, almost to CPAP level, in sedated patients. Peak flow reached zero point four one liters per second with stimulation, against zero point four three on CPAP. That held in thirteen of fourteen people. It is a strong physiology signal and a technology to watch. It is not yet a treatment, and it does not alter who is offered an implant today. What it adds is to counseling, and to how we teach electrode position.
+
+On counseling, a patient may ask about a needle-placed nerve stimulator with no implant. The honest answer: this was an acute, sedated, single-session study of fourteen people, with no natural sleep, no A-H-I and no device to take home. Don't carry the authors' under-thirty-minute procedure time into implant counseling, because it compares a temporary lead with a full implant. For context, Inspire V has no separate sensing lead, unlike Inspire IV, but the generator still sits in the chest.
+
+On candidacy, C-C-C on DISE remains an exclusion for Inspire. This paper prints no separate result for its three participants with C-C-C, so it gives no grounds to relax that gate. In Dr. Nord's practice, DISE is part of the Inspire candidacy workup, and a good tool for the non-responder once awake endoscopy and reprogramming have failed. A stimulation trial under DISE may one day add to that workup, but it is untested.
+
+For residents, the teaching point is position. Drive the branches that protrude the tongue and the airway opens. Drift toward a retractor branch and the tongue pulls back and narrows it. That principle holds wherever the electrode sits, including the cuff in the operating room. It is also why electrode configuration matters when an implanted patient doesn't respond.
+
+Confidence is high that the acute physiology is real in this model, and low that it predicts a therapy. What would move it: a natural-sleep study with an A-H-I outcome, a chronic lead that stays put, and C-C-C results reported separately.
+
+The paper is Osman and colleagues, from Eckert's group at Flinders University, "Effect of Novel Hypoglossal Stimulation on Airflow and Airway Collapsibility in O-S-A," CHEST, 2026, volume one hundred sixty-nine, issue one, pages two fifty-seven to two sixty-eight.
+
+Residents, what's your one takeaway from this paper?</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=a8f632d4-b280-5622-8f4e-25f719757a04/rnordxx1.github.io/osa-paper-podcast/episodes/2026-11-03-Effect-of-Novel-Hypoglossal-Stimulation-on-Airflow.mp3" length="4978672" type="audio/mpeg"/>
+      <guid isPermaLink="false">osa-paper-podcast-cd49e3e6</guid>
+      <pubDate>Tue, 03 Nov 2026 05:43:18 -0500</pubDate>
+      <itunes:duration>0:13:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Ryan Nord, MD</itunes:author>
+      <link>https://doi.org/10.1016/j.chest.2025.08.020</link>
+    </item>
     <item>
       <title>Physiologic Mechanisms of Response to Hypoglossal Nerve Stimulation</title>
       <itunes:title>Physiologic Mechanisms of Response to Hypoglossal Nerve Stimulation</itunes:title>
