@@ -7,7 +7,7 @@
     <atom:link href="https://rnordxx1.github.io/osa-paper-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <copyright>&#169; 2026 Ryan Nord, MD</copyright>
-    <lastBuildDate>Tue, 03 Nov 2026 04:43:27 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 04:43:50 -0500</lastBuildDate>
     <description>Every day, one new paper on obstructive sleep apnea surgery: hypoglossal nerve stimulation, palate surgery including barbed reposition pharyngoplasty, tongue base, skeletal and nasal procedures, patient selection and comparators. Every episode summarizes the paper, walks through it as a teaching round, places it against a 440-paper evidence library, and ends with whether it should change practice.
 
 Episodes are written and narrated by an AI system working from the full text of each paper and the host's curated library of digests, under rules set by the host. They are reviewed for teaching, not for patient care. Nothing here is medical advice.
@@ -30,6 +30,44 @@ Produced by Ryan Nord, MD (VCU Health). Disclosures: consultant to AvivoMed; pre
     <itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Phrenic Nerve Stimulation Enhances Upper Airway Patency During Drug-Induced Sleep Endoscopy in Obstructive Sleep Apnea</title>
+      <itunes:title>Phrenic Nerve Stimulation Enhances Upper Airway Patency During Drug-Induced Sleep Endoscopy in Obstructive Sleep Apnea</itunes:title>
+      <description>The take-home point is about counseling and teaching, not candidacy. Here is the headline one last time. A single phrenic burst at the end of expiration gave nearly two-thirds more inspiratory flow, sixty-four percent, in thirteen sedated patients. It doesn't alter who is offered surgery today. There is no AHI, no responder rate, no durability and no safety data. Those percentages belong on a mechanism slide, not in a consent conversation.
+
+For counseling, remember that patients read headlines. If someone asks about pacing the diaphragm for sleep apnea, the honest answer is that it is early research under sedation, not an available treatment for obstructive apnea.
+
+For teaching, timing matters. The same stimulus can open or worsen a flow-limited airway, depending on when it lands in the breath. In Dr. Nord's practice, DISE is part of the Inspire candidacy workup. In this paper, a DISE setup with CPAP and a pressure catheter doubled as a physiology lab. When teaching residents in the operating room, it is a useful reminder that the endoscopic picture shows structure, not flow, and that findings like these come from pressure and flow tracings that needed the custom setup the authors built. It also fits the authors' argument that several airway muscles may need coordinated activation.
+
+I'm confident the acute signal is real under these conditions, because it was timing-locked and seen within patients. I have little confidence that it predicts a therapy. What would raise that confidence is a natural-sleep study with an AHI, a sham arm, closed-loop timing, endoscopic airway area and tolerability data.
+
+That was Schwartz's group, in the Annals of the American Thoracic Society, 2026.
+
+What's your one takeaway from this paper?
+
+Paper: Yu JL, Gouldman KP, Kane BL, Manning KN, McEachran MC, Bourn D, Schneider H, Schwartz AR. Phrenic nerve stimulation enhances upper airway patency during drug-induced sleep endoscopy in obstructive sleep apnea. *Annals of the American Thoracic Society*. 2026;23(8):1207–1216. doi:10.1093/annalsats/aaoag079
+https://doi.org/10.1093/annalsats/aaoag079</description>
+      <content:encoded><![CDATA[<p>The take-home point is about counseling and teaching, not candidacy. Here is the headline one last time. A single phrenic burst at the end of expiration gave nearly two-thirds more inspiratory flow, sixty-four percent, in thirteen sedated patients. It doesn&#x27;t alter who is offered surgery today. There is no AHI, no responder rate, no durability and no safety data. Those percentages belong on a mechanism slide, not in a consent conversation.</p><p>For counseling, remember that patients read headlines. If someone asks about pacing the diaphragm for sleep apnea, the honest answer is that it is early research under sedation, not an available treatment for obstructive apnea.</p><p>For teaching, timing matters. The same stimulus can open or worsen a flow-limited airway, depending on when it lands in the breath. In Dr. Nord&#x27;s practice, DISE is part of the Inspire candidacy workup. In this paper, a DISE setup with CPAP and a pressure catheter doubled as a physiology lab. When teaching residents in the operating room, it is a useful reminder that the endoscopic picture shows structure, not flow, and that findings like these come from pressure and flow tracings that needed the custom setup the authors built. It also fits the authors&#x27; argument that several airway muscles may need coordinated activation.</p><p>I&#x27;m confident the acute signal is real under these conditions, because it was timing-locked and seen within patients. I have little confidence that it predicts a therapy. What would raise that confidence is a natural-sleep study with an AHI, a sham arm, closed-loop timing, endoscopic airway area and tolerability data.</p><p>That was Schwartz&#x27;s group, in the Annals of the American Thoracic Society, 2026.</p><p>What&#x27;s your one takeaway from this paper?</p><p>Paper: Yu JL, Gouldman KP, Kane BL, Manning KN, McEachran MC, Bourn D, Schneider H, Schwartz AR. Phrenic nerve stimulation enhances upper airway patency during drug-induced sleep endoscopy in obstructive sleep apnea. *Annals of the American Thoracic Society*. 2026;23(8):1207–1216. doi:10.1093/annalsats/aaoag079
+https://doi.org/10.1093/annalsats/aaoag079</p>]]></content:encoded>
+      <itunes:summary>The take-home point is about counseling and teaching, not candidacy. Here is the headline one last time. A single phrenic burst at the end of expiration gave nearly two-thirds more inspiratory flow, sixty-four percent, in thirteen sedated patients. It doesn't alter who is offered surgery today. There is no AHI, no responder rate, no durability and no safety data. Those percentages belong on a mechanism slide, not in a consent conversation.
+
+For counseling, remember that patients read headlines. If someone asks about pacing the diaphragm for sleep apnea, the honest answer is that it is early research under sedation, not an available treatment for obstructive apnea.
+
+For teaching, timing matters. The same stimulus can open or worsen a flow-limited airway, depending on when it lands in the breath. In Dr. Nord's practice, DISE is part of the Inspire candidacy workup. In this paper, a DISE setup with CPAP and a pressure catheter doubled as a physiology lab. When teaching residents in the operating room, it is a useful reminder that the endoscopic picture shows structure, not flow, and that findings like these come from pressure and flow tracings that needed the custom setup the authors built. It also fits the authors' argument that several airway muscles may need coordinated activation.
+
+I'm confident the acute signal is real under these conditions, because it was timing-locked and seen within patients. I have little confidence that it predicts a therapy. What would raise that confidence is a natural-sleep study with an AHI, a sham arm, closed-loop timing, endoscopic airway area and tolerability data.
+
+That was Schwartz's group, in the Annals of the American Thoracic Society, 2026.
+
+What's your one takeaway from this paper?</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=a8f632d4-b280-5622-8f4e-25f719757a04/rnordxx1.github.io/osa-paper-podcast/episodes/2026-11-04-Phrenic-Nerve-Stimulation-Enhances-Upper-Airway-Patency.mp3" length="4858279" type="audio/mpeg"/>
+      <guid isPermaLink="false">osa-paper-podcast-6289d5a7</guid>
+      <pubDate>Wed, 04 Nov 2026 05:43:32 -0500</pubDate>
+      <itunes:duration>0:13:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Ryan Nord, MD</itunes:author>
+      <link>https://doi.org/10.1093/annalsats/aaoag079</link>
+    </item>
     <item>
       <title>Effect of Novel Hypoglossal Stimulation on Airflow and Airway Collapsibility in OSA</title>
       <itunes:title>Effect of Novel Hypoglossal Stimulation on Airflow and Airway Collapsibility in OSA</itunes:title>
