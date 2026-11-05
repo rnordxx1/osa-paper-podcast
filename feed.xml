@@ -7,7 +7,7 @@
     <atom:link href="https://rnordxx1.github.io/osa-paper-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <copyright>&#169; 2026 Ryan Nord, MD</copyright>
-    <lastBuildDate>Wed, 04 Nov 2026 04:43:50 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 04:46:23 -0500</lastBuildDate>
     <description>Every day, one new paper on obstructive sleep apnea surgery: hypoglossal nerve stimulation, palate surgery including barbed reposition pharyngoplasty, tongue base, skeletal and nasal procedures, patient selection and comparators. Every episode summarizes the paper, walks through it as a teaching round, places it against a 440-paper evidence library, and ends with whether it should change practice.
 
 Episodes are written and narrated by an AI system working from the full text of each paper and the host's curated library of digests, under rules set by the host. They are reviewed for teaching, not for patient care. Nothing here is medical advice.
@@ -30,6 +30,52 @@ Produced by Ryan Nord, MD (VCU Health). Disclosures: consultant to AvivoMed; pre
     <itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Adenotonsillectomy for Children With Mild Sleep-Disordered Breathing - Who Benefits?</title>
+      <itunes:title>Adenotonsillectomy for Children With Mild Sleep-Disordered Breathing - Who Benefits?</itunes:title>
+      <description>The take-home point is this. For a snoring child with enlarged tonsils, a near-normal sleep study need not, by itself, talk a family out of adenotonsillectomy.
+
+Bring the headline into the counseling room. About two in three children were meaningfully better a year after early surgery. With waiting, it was about two in five. Four children treated, one extra child helped. Be precise about what improved: behavior, quality of life, sleepiness, and, at the edge of significance, blood pressure. Attention and executive function did not. And say plainly that parents, who knew the treatment, scored most of it.
+
+Families often ask about weight. In this trial, being overweight did not detectably change the benefit of surgery, though the confidence interval was wide. That interaction odds ratio was close to one, at one point zero seven. More than a third of these children were overweight or obese: one hundred thirty-five of three hundred sixty-three. The caveat is that children with severe obesity were excluded.
+
+Is the Mallampati worth recording in clinic? Yes. It is a quick bedside exam, and it may flag a child who stands to gain more from surgery than from waiting. It does not replace the history, the tonsil exam or the sleep study. The authors give reasons to keep the preoperative study: measuring severity, flagging postoperative airway risk when it shows severe obstructive sleep apnea, and documenting a baseline. And a low Mallampati is no reason to withhold surgery, because those children benefited too.
+
+The broader lesson is about measurement. What families feel moved in children whose A-H-I barely registered, so record symptoms and blood pressure alongside the A-H-I, before and after surgery.
+
+What would move confidence? Independent replication of the Mallampati signal, blinded outcomes and longer follow-up.
+
+That was Rosen's group, writing in SLEEP in 2026.
+
+What's your one takeaway from this paper?
+
+Paper: Chervin RD, Gueye-Ndiaye S, Cen M, Mitchell RB, Liu C, Ibrahim S, et al. Adenotonsillectomy for children with mild sleep-disordered breathing: who benefits? *SLEEP*. 2026;49(10):zsag169 (pp. doi:10.1093/sleep/zsag169
+https://doi.org/10.1093/sleep/zsag169</description>
+      <content:encoded><![CDATA[<p>The take-home point is this. For a snoring child with enlarged tonsils, a near-normal sleep study need not, by itself, talk a family out of adenotonsillectomy.</p><p>Bring the headline into the counseling room. About two in three children were meaningfully better a year after early surgery. With waiting, it was about two in five. Four children treated, one extra child helped. Be precise about what improved: behavior, quality of life, sleepiness, and, at the edge of significance, blood pressure. Attention and executive function did not. And say plainly that parents, who knew the treatment, scored most of it.</p><p>Families often ask about weight. In this trial, being overweight did not detectably change the benefit of surgery, though the confidence interval was wide. That interaction odds ratio was close to one, at one point zero seven. More than a third of these children were overweight or obese: one hundred thirty-five of three hundred sixty-three. The caveat is that children with severe obesity were excluded.</p><p>Is the Mallampati worth recording in clinic? Yes. It is a quick bedside exam, and it may flag a child who stands to gain more from surgery than from waiting. It does not replace the history, the tonsil exam or the sleep study. The authors give reasons to keep the preoperative study: measuring severity, flagging postoperative airway risk when it shows severe obstructive sleep apnea, and documenting a baseline. And a low Mallampati is no reason to withhold surgery, because those children benefited too.</p><p>The broader lesson is about measurement. What families feel moved in children whose A-H-I barely registered, so record symptoms and blood pressure alongside the A-H-I, before and after surgery.</p><p>What would move confidence? Independent replication of the Mallampati signal, blinded outcomes and longer follow-up.</p><p>That was Rosen&#x27;s group, writing in SLEEP in 2026.</p><p>What&#x27;s your one takeaway from this paper?</p><p>Paper: Chervin RD, Gueye-Ndiaye S, Cen M, Mitchell RB, Liu C, Ibrahim S, et al. Adenotonsillectomy for children with mild sleep-disordered breathing: who benefits? *SLEEP*. 2026;49(10):zsag169 (pp. doi:10.1093/sleep/zsag169
+https://doi.org/10.1093/sleep/zsag169</p>]]></content:encoded>
+      <itunes:summary>The take-home point is this. For a snoring child with enlarged tonsils, a near-normal sleep study need not, by itself, talk a family out of adenotonsillectomy.
+
+Bring the headline into the counseling room. About two in three children were meaningfully better a year after early surgery. With waiting, it was about two in five. Four children treated, one extra child helped. Be precise about what improved: behavior, quality of life, sleepiness, and, at the edge of significance, blood pressure. Attention and executive function did not. And say plainly that parents, who knew the treatment, scored most of it.
+
+Families often ask about weight. In this trial, being overweight did not detectably change the benefit of surgery, though the confidence interval was wide. That interaction odds ratio was close to one, at one point zero seven. More than a third of these children were overweight or obese: one hundred thirty-five of three hundred sixty-three. The caveat is that children with severe obesity were excluded.
+
+Is the Mallampati worth recording in clinic? Yes. It is a quick bedside exam, and it may flag a child who stands to gain more from surgery than from waiting. It does not replace the history, the tonsil exam or the sleep study. The authors give reasons to keep the preoperative study: measuring severity, flagging postoperative airway risk when it shows severe obstructive sleep apnea, and documenting a baseline. And a low Mallampati is no reason to withhold surgery, because those children benefited too.
+
+The broader lesson is about measurement. What families feel moved in children whose A-H-I barely registered, so record symptoms and blood pressure alongside the A-H-I, before and after surgery.
+
+What would move confidence? Independent replication of the Mallampati signal, blinded outcomes and longer follow-up.
+
+That was Rosen's group, writing in SLEEP in 2026.
+
+What's your one takeaway from this paper?</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=a8f632d4-b280-5622-8f4e-25f719757a04/rnordxx1.github.io/osa-paper-podcast/episodes/2026-11-05-Adenotonsillectomy-for-Children-With-Mild-Sleep-Disordered-Breathing.mp3" length="4958490" type="audio/mpeg"/>
+      <guid isPermaLink="false">osa-paper-podcast-91ad94fe</guid>
+      <pubDate>Thu, 05 Nov 2026 05:46:16 -0500</pubDate>
+      <itunes:duration>0:13:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Ryan Nord, MD</itunes:author>
+      <link>https://doi.org/10.1093/sleep/zsag169</link>
+    </item>
     <item>
       <title>Phrenic Nerve Stimulation Enhances Upper Airway Patency During Drug-Induced Sleep Endoscopy in Obstructive Sleep Apnea</title>
       <itunes:title>Phrenic Nerve Stimulation Enhances Upper Airway Patency During Drug-Induced Sleep Endoscopy in Obstructive Sleep Apnea</itunes:title>
