@@ -1,5 +1,22 @@
 [
  {
+  "id": "bb395f10",
+  "date": "2026-11-09",
+  "title": "SNORES Classification - Multicenter Prospective Validation for Obstructive Sleep Apnea",
+  "authors": "Eishal Arshad, Junaid Iqbal, Aisha Shafique.",
+  "journal": "The Laryngoscope",
+  "year": "2026",
+  "doi": "10.1002/lary.70549",
+  "pmid": "",
+  "blurb": "A three-center prospective cohort study from Pakistan asked whether SNORES, a six-domain score built from sleep study, nasal airflow, breathing effort, awake endoscopy and sleep position data, predicts later treatment escalation, surgery and adherence to continuous positive airway pressure better than the apnea-hypopnea index alone. The score ranked patients for later therapy escalation far better than the apnea-hypopnea index (area under the curve 0.82), though the paper is inconsistent about whether that figure comes from all 1,560 patients or a 390-patient subset; those outcomes were also clinicians' decisions partly based on the same findings, and the study reported no procedure-specific surgical results. It is one to watch: useful as a structured clinic descriptor, but not yet a reason to alter surgical candidacy workups or to replace drug-induced sleep endoscopy.",
+  "audio": "https://op3.dev/e,pg=a8f632d4-b280-5622-8f4e-25f719757a04/rnordxx1.github.io/osa-paper-podcast/episodes/2026-11-09-SNORES-Classification-Multicenter-Prospective-Validation-for.mp3",
+  "bytes": 4971606,
+  "duration": 827,
+  "minutes": 14,
+  "page": "https://rnordxx1.github.io/osa-paper-podcast/#ep-bb395f10",
+  "guid": "osa-paper-podcast-bb395f10"
+ },
+ {
   "id": "2ab24569",
   "date": "2026-11-08",
   "title": "Challenging Barriers in OSA - Outcomes of Down Under Pharyngoplasty and Coblation Tongue Channelling",
