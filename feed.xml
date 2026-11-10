@@ -7,7 +7,7 @@
     <atom:link href="https://rnordxx1.github.io/osa-paper-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <copyright>&#169; 2026 Ryan Nord, MD</copyright>
-    <lastBuildDate>Mon, 09 Nov 2026 04:46:26 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 04:44:35 -0500</lastBuildDate>
     <description>Every day, one new paper on obstructive sleep apnea surgery: hypoglossal nerve stimulation, palate surgery including barbed reposition pharyngoplasty, tongue base, skeletal and nasal procedures, patient selection and comparators. Every episode summarizes the paper, walks through it as a teaching round, places it against a 440-paper evidence library, and ends with whether it should change practice.
 
 Episodes are written and narrated by an AI system working from the full text of each paper and the host's curated library of digests, under rules set by the host. They are reviewed for teaching, not for patient care. Nothing here is medical advice.
@@ -30,6 +30,52 @@ Produced by Ryan Nord, MD (VCU Health). Disclosures: consultant to AvivoMed; pre
     <itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>CPAP Treatment Persistence Following Nasal Procedures in Obstructive Sleep Apnea - A Real-World Claims-Based Analysis of 1.3 Million Patients</title>
+      <itunes:title>CPAP Treatment Persistence Following Nasal Procedures in Obstructive Sleep Apnea - A Real-World Claims-Based Analysis of 1.3 Million Patients</itunes:title>
+      <description>The take-home point. Patients who had office valve radiofrequency after starting CPAP stopped it at roughly six-tenths the rate of patients with no nasal surgery, a hazard ratio of point six two. At one year, about eighty-four in a hundred were still on CPAP by claims, against about seventy-six. That is an association in claims data, not proof the procedure caused it.
+
+The paper matters most at the moment CPAP is declared a failure. Before moving a patient toward hypoglossal nerve stimulation or palatal surgery, examine the nose, including the nasal valve. Ask whether nasal obstruction is limiting the CPAP trial. CPAP refusal is not always CPAP failure. For a high-volume Inspire implanter who also performs barbed reposition pharyngoplasty, as Dr. Nord is, that is exactly the point where this paper earns a place.
+
+It also gives patients something honest to hear. A fair way to put it: in a large insurance claims study, people who had nasal procedures after starting CPAP were somewhat more likely to keep ordering CPAP supplies through insurance, most clearly after an office nasal valve treatment, but the study cannot show the procedure caused the difference.
+
+Frame nasal treatment as treating obstruction and mask tolerance, not the apnea itself. Don't use this paper to delay hypoglossal nerve stimulation in a patient who has had a fair CPAP trial; the ADHERE data suggest prior nasal surgery doesn't lower a patient's Inspire odds. And this was not a head-to-head comparison. It can't tell you whether valve radiofrequency beats septoplasty for a given nose, because the groups were different patients.
+
+When you do treat the nose in a patient struggling with CPAP, collect the machine download before and after. That is the objective measure this paper lacked, and it lets you judge the result in your own patient.
+
+What would raise confidence? A randomized trial, or a prospective cohort with device downloads, A-H-I and nasal scores. Ideally it would come from another group, with longer follow-up after valve radiofrequency.
+
+The paper was Malhotra and colleagues, from Niklewski's group, in the Journal of Medical Economics, 2026.
+
+What's your one takeaway from this paper?
+
+Paper: Malhotra A, Takashima M, Vahabzadeh-Hagh A, Yaremchuk K, Niklewski P. CPAP treatment persistence following nasal procedures in obstructive sleep apnea: a real-world claims-based analysis of 1.3 million patients. *Journal of Medical Economics*. 2026;29(1):1474–1486. doi:10.1080/13696998.2026.2671550
+https://doi.org/10.1080/13696998.2026.2671550</description>
+      <content:encoded><![CDATA[<p>The take-home point. Patients who had office valve radiofrequency after starting CPAP stopped it at roughly six-tenths the rate of patients with no nasal surgery, a hazard ratio of point six two. At one year, about eighty-four in a hundred were still on CPAP by claims, against about seventy-six. That is an association in claims data, not proof the procedure caused it.</p><p>The paper matters most at the moment CPAP is declared a failure. Before moving a patient toward hypoglossal nerve stimulation or palatal surgery, examine the nose, including the nasal valve. Ask whether nasal obstruction is limiting the CPAP trial. CPAP refusal is not always CPAP failure. For a high-volume Inspire implanter who also performs barbed reposition pharyngoplasty, as Dr. Nord is, that is exactly the point where this paper earns a place.</p><p>It also gives patients something honest to hear. A fair way to put it: in a large insurance claims study, people who had nasal procedures after starting CPAP were somewhat more likely to keep ordering CPAP supplies through insurance, most clearly after an office nasal valve treatment, but the study cannot show the procedure caused the difference.</p><p>Frame nasal treatment as treating obstruction and mask tolerance, not the apnea itself. Don&#x27;t use this paper to delay hypoglossal nerve stimulation in a patient who has had a fair CPAP trial; the ADHERE data suggest prior nasal surgery doesn&#x27;t lower a patient&#x27;s Inspire odds. And this was not a head-to-head comparison. It can&#x27;t tell you whether valve radiofrequency beats septoplasty for a given nose, because the groups were different patients.</p><p>When you do treat the nose in a patient struggling with CPAP, collect the machine download before and after. That is the objective measure this paper lacked, and it lets you judge the result in your own patient.</p><p>What would raise confidence? A randomized trial, or a prospective cohort with device downloads, A-H-I and nasal scores. Ideally it would come from another group, with longer follow-up after valve radiofrequency.</p><p>The paper was Malhotra and colleagues, from Niklewski&#x27;s group, in the Journal of Medical Economics, 2026.</p><p>What&#x27;s your one takeaway from this paper?</p><p>Paper: Malhotra A, Takashima M, Vahabzadeh-Hagh A, Yaremchuk K, Niklewski P. CPAP treatment persistence following nasal procedures in obstructive sleep apnea: a real-world claims-based analysis of 1.3 million patients. *Journal of Medical Economics*. 2026;29(1):1474–1486. doi:10.1080/13696998.2026.2671550
+https://doi.org/10.1080/13696998.2026.2671550</p>]]></content:encoded>
+      <itunes:summary>The take-home point. Patients who had office valve radiofrequency after starting CPAP stopped it at roughly six-tenths the rate of patients with no nasal surgery, a hazard ratio of point six two. At one year, about eighty-four in a hundred were still on CPAP by claims, against about seventy-six. That is an association in claims data, not proof the procedure caused it.
+
+The paper matters most at the moment CPAP is declared a failure. Before moving a patient toward hypoglossal nerve stimulation or palatal surgery, examine the nose, including the nasal valve. Ask whether nasal obstruction is limiting the CPAP trial. CPAP refusal is not always CPAP failure. For a high-volume Inspire implanter who also performs barbed reposition pharyngoplasty, as Dr. Nord is, that is exactly the point where this paper earns a place.
+
+It also gives patients something honest to hear. A fair way to put it: in a large insurance claims study, people who had nasal procedures after starting CPAP were somewhat more likely to keep ordering CPAP supplies through insurance, most clearly after an office nasal valve treatment, but the study cannot show the procedure caused the difference.
+
+Frame nasal treatment as treating obstruction and mask tolerance, not the apnea itself. Don't use this paper to delay hypoglossal nerve stimulation in a patient who has had a fair CPAP trial; the ADHERE data suggest prior nasal surgery doesn't lower a patient's Inspire odds. And this was not a head-to-head comparison. It can't tell you whether valve radiofrequency beats septoplasty for a given nose, because the groups were different patients.
+
+When you do treat the nose in a patient struggling with CPAP, collect the machine download before and after. That is the objective measure this paper lacked, and it lets you judge the result in your own patient.
+
+What would raise confidence? A randomized trial, or a prospective cohort with device downloads, A-H-I and nasal scores. Ideally it would come from another group, with longer follow-up after valve radiofrequency.
+
+The paper was Malhotra and colleagues, from Niklewski's group, in the Journal of Medical Economics, 2026.
+
+What's your one takeaway from this paper?</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=a8f632d4-b280-5622-8f4e-25f719757a04/rnordxx1.github.io/osa-paper-podcast/episodes/2026-11-10-CPAP-Treatment-Persistence-Following-Nasal-Procedures-in.mp3" length="5070108" type="audio/mpeg"/>
+      <guid isPermaLink="false">osa-paper-podcast-b8cb337a</guid>
+      <pubDate>Tue, 10 Nov 2026 05:44:26 -0500</pubDate>
+      <itunes:duration>0:14:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Ryan Nord, MD</itunes:author>
+      <link>https://doi.org/10.1080/13696998.2026.2671550</link>
+    </item>
     <item>
       <title>SNORES Classification - Multicenter Prospective Validation for Obstructive Sleep Apnea</title>
       <itunes:title>SNORES Classification - Multicenter Prospective Validation for Obstructive Sleep Apnea</itunes:title>
