@@ -7,7 +7,7 @@
     <atom:link href="https://rnordxx1.github.io/osa-paper-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <copyright>&#169; 2026 Ryan Nord, MD</copyright>
-    <lastBuildDate>Fri, 13 Nov 2026 04:48:53 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 04:49:20 -0500</lastBuildDate>
     <description>Every day, one new paper on obstructive sleep apnea surgery: hypoglossal nerve stimulation, palate surgery including barbed reposition pharyngoplasty, tongue base, skeletal and nasal procedures, patient selection and comparators. Every episode summarizes the paper, walks through it as a teaching round, places it against a 440-paper evidence library, and ends with whether it should change practice.
 
 Episodes are written and narrated by an AI system working from the full text of each paper and the host's curated library of digests, under rules set by the host. They are reviewed for teaching, not for patient care. Nothing here is medical advice.
@@ -30,6 +30,48 @@ Produced by Ryan Nord, MD (VCU Health). Disclosures: consultant to AvivoMed; pre
     <itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Comparison of Esketamine Combined With Dexmedetomidine Versus Propofol Combined With Midazolam on Drug-Induced Sleep Endoscopy - A Randomized Controlled Trial</title>
+      <itunes:title>Comparison of Esketamine Combined With Dexmedetomidine Versus Propofol Combined With Midazolam on Drug-Induced Sleep Endoscopy - A Randomized Controlled Trial</itunes:title>
+      <description>Here's the take-home point. This trial doesn't alter who is offered surgery. It adds a careful first look at an alternative regimen, and a clear reason to keep that regimen out of candidacy decisions for now. Remember the headline: both regimens reached N-two in about three to four minutes, and the difference was not statistically significant. So speed of sleep onset is no reason to switch.
+
+The decision it touches is which sedation sits behind the endoscopy that helps decide Inspire candidacy. As one example, drug-induced sleep endoscopy is part of the Inspire candidacy workup in Dr. Nord's practice. The C-C-C exclusion and the guideline's sedation advice rest on propofol-based endoscopy with depth monitoring. This trial reports no airway findings, so it can't tell us whether the new regimen shows the palate the same way. Until it can, propofol-based, depth-monitored endoscopy remains the standard for candidacy.
+
+The same holds before palate surgery, including barbed reposition pharyngoplasty. In the twenty twenty-two Iannella trial in Sleep and Breathing, drug-induced sleep endoscopy moved about three in ten patients away from single-level palate surgery, eighteen of sixty. Iannella and colleagues warned that an incorrectly performed endoscopy can mislead surgical planning. A regimen with uninterpretable depth readings weakens exactly the tongue-base read that drives that plan.
+
+Repeat endoscopy raises the same issue. Dr. Nord uses it for the Inspire non-responder once awake endoscopy and reprogramming have failed, and comparing before and after assumes similar sedation both times. If a patient was scoped elsewhere under an unfamiliar regimen, a repeat study under a standard regimen, or a second look at the video, is reasonable.
+
+For counseling, don't present the first-pass gap or the lower hypoxemia rate as established benefits. They're exploratory. And Inspire candidates are typically older and more comorbid than this cohort, so the higher blood pressures under the new regimen deserve caution in hypertensive or cardiac patients.
+
+What would move this? A trial in older, heavier patients with moderate to severe disease, with comparable depth, blinded scoring of obstruction site, degree and pattern, C-C-C rates, and recovery data. If the new regimen showed the same airway with fewer rescues, it would earn a place.
+
+What's your one takeaway from this paper?
+
+Paper: Jiang Y, Wang Z, Wen H, Wen Z, Chen L, Wang C, Cheng Y, Zhou R, Yu W, Yan J. Comparison of esketamine combined with dexmedetomidine versus propofol combined with midazolam on drug-induced sleep endoscopy: a randomized controlled trial. *BMC Anesthesiol*. 2026;26:504. doi:10.1186/s12871-026-03987-6
+https://doi.org/10.1186/s12871-026-03987-6</description>
+      <content:encoded><![CDATA[<p>Here&#x27;s the take-home point. This trial doesn&#x27;t alter who is offered surgery. It adds a careful first look at an alternative regimen, and a clear reason to keep that regimen out of candidacy decisions for now. Remember the headline: both regimens reached N-two in about three to four minutes, and the difference was not statistically significant. So speed of sleep onset is no reason to switch.</p><p>The decision it touches is which sedation sits behind the endoscopy that helps decide Inspire candidacy. As one example, drug-induced sleep endoscopy is part of the Inspire candidacy workup in Dr. Nord&#x27;s practice. The C-C-C exclusion and the guideline&#x27;s sedation advice rest on propofol-based endoscopy with depth monitoring. This trial reports no airway findings, so it can&#x27;t tell us whether the new regimen shows the palate the same way. Until it can, propofol-based, depth-monitored endoscopy remains the standard for candidacy.</p><p>The same holds before palate surgery, including barbed reposition pharyngoplasty. In the twenty twenty-two Iannella trial in Sleep and Breathing, drug-induced sleep endoscopy moved about three in ten patients away from single-level palate surgery, eighteen of sixty. Iannella and colleagues warned that an incorrectly performed endoscopy can mislead surgical planning. A regimen with uninterpretable depth readings weakens exactly the tongue-base read that drives that plan.</p><p>Repeat endoscopy raises the same issue. Dr. Nord uses it for the Inspire non-responder once awake endoscopy and reprogramming have failed, and comparing before and after assumes similar sedation both times. If a patient was scoped elsewhere under an unfamiliar regimen, a repeat study under a standard regimen, or a second look at the video, is reasonable.</p><p>For counseling, don&#x27;t present the first-pass gap or the lower hypoxemia rate as established benefits. They&#x27;re exploratory. And Inspire candidates are typically older and more comorbid than this cohort, so the higher blood pressures under the new regimen deserve caution in hypertensive or cardiac patients.</p><p>What would move this? A trial in older, heavier patients with moderate to severe disease, with comparable depth, blinded scoring of obstruction site, degree and pattern, C-C-C rates, and recovery data. If the new regimen showed the same airway with fewer rescues, it would earn a place.</p><p>What&#x27;s your one takeaway from this paper?</p><p>Paper: Jiang Y, Wang Z, Wen H, Wen Z, Chen L, Wang C, Cheng Y, Zhou R, Yu W, Yan J. Comparison of esketamine combined with dexmedetomidine versus propofol combined with midazolam on drug-induced sleep endoscopy: a randomized controlled trial. *BMC Anesthesiol*. 2026;26:504. doi:10.1186/s12871-026-03987-6
+https://doi.org/10.1186/s12871-026-03987-6</p>]]></content:encoded>
+      <itunes:summary>Here's the take-home point. This trial doesn't alter who is offered surgery. It adds a careful first look at an alternative regimen, and a clear reason to keep that regimen out of candidacy decisions for now. Remember the headline: both regimens reached N-two in about three to four minutes, and the difference was not statistically significant. So speed of sleep onset is no reason to switch.
+
+The decision it touches is which sedation sits behind the endoscopy that helps decide Inspire candidacy. As one example, drug-induced sleep endoscopy is part of the Inspire candidacy workup in Dr. Nord's practice. The C-C-C exclusion and the guideline's sedation advice rest on propofol-based endoscopy with depth monitoring. This trial reports no airway findings, so it can't tell us whether the new regimen shows the palate the same way. Until it can, propofol-based, depth-monitored endoscopy remains the standard for candidacy.
+
+The same holds before palate surgery, including barbed reposition pharyngoplasty. In the twenty twenty-two Iannella trial in Sleep and Breathing, drug-induced sleep endoscopy moved about three in ten patients away from single-level palate surgery, eighteen of sixty. Iannella and colleagues warned that an incorrectly performed endoscopy can mislead surgical planning. A regimen with uninterpretable depth readings weakens exactly the tongue-base read that drives that plan.
+
+Repeat endoscopy raises the same issue. Dr. Nord uses it for the Inspire non-responder once awake endoscopy and reprogramming have failed, and comparing before and after assumes similar sedation both times. If a patient was scoped elsewhere under an unfamiliar regimen, a repeat study under a standard regimen, or a second look at the video, is reasonable.
+
+For counseling, don't present the first-pass gap or the lower hypoxemia rate as established benefits. They're exploratory. And Inspire candidates are typically older and more comorbid than this cohort, so the higher blood pressures under the new regimen deserve caution in hypertensive or cardiac patients.
+
+What would move this? A trial in older, heavier patients with moderate to severe disease, with comparable depth, blinded scoring of obstruction site, degree and pattern, C-C-C rates, and recovery data. If the new regimen showed the same airway with fewer rescues, it would earn a place.
+
+What's your one takeaway from this paper?</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=a8f632d4-b280-5622-8f4e-25f719757a04/rnordxx1.github.io/osa-paper-podcast/episodes/2026-11-14-Comparison-of-Esketamine-Combined-With-Dexmedetomidine-Versus.mp3" length="5067455" type="audio/mpeg"/>
+      <guid isPermaLink="false">osa-paper-podcast-014e2615</guid>
+      <pubDate>Sat, 14 Nov 2026 05:49:10 -0500</pubDate>
+      <itunes:duration>0:14:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Ryan Nord, MD</itunes:author>
+      <link>https://doi.org/10.1186/s12871-026-03987-6</link>
+    </item>
     <item>
       <title>Characteristics, Risk Factors, and Long‐Term Outcomes of Dysphagia Following Modified Uvulopalatopharyngoplasty: A Mixed‐Methods Study</title>
       <itunes:title>Characteristics, Risk Factors, and Long‐Term Outcomes of Dysphagia Following Modified Uvulopalatopharyngoplasty: A Mixed‐Methods Study</itunes:title>
