@@ -1,5 +1,22 @@
 [
  {
+  "id": "46febaab",
+  "date": "2026-11-15",
+  "title": "Clinical Severity Staging System and Response to Hypoglossal Nerve Stimulation for Obstructive Sleep Apnea",
+  "authors": "Ji J, Wang HZ, Jackson RS, Lindburg MR, Kallogjeri D, Landsness EC, et al.",
+  "journal": "JAMA Otolaryngology-Head & Neck Surgery",
+  "year": "2026",
+  "doi": "10.1001/jamaoto.2025.4851",
+  "pmid": "41642599",
+  "blurb": "A single-center study from Washington University in Saint Louis asked whether neck size, body mass index, sleep apnea severity and comorbidity could predict who responds to hypoglossal nerve stimulation for obstructive sleep apnea. Combined into a staged score, these factors tracked a steady fall in response, with fewer than four in ten responding in the worst stage, though the score separated responders only moderately and has not been validated. Surgeons should watch for external validation and use the score for counseling rather than to select or exclude patients.",
+  "audio": "https://op3.dev/e,pg=a8f632d4-b280-5622-8f4e-25f719757a04/rnordxx1.github.io/osa-paper-podcast/episodes/2026-11-15-Clinical-Severity-Staging-System-and-Response-to.mp3",
+  "bytes": 4801453,
+  "duration": 799,
+  "minutes": 13,
+  "page": "https://rnordxx1.github.io/osa-paper-podcast/#ep-46febaab",
+  "guid": "osa-paper-podcast-46febaab"
+ },
+ {
   "id": "014e2615",
   "date": "2026-11-14",
   "title": "Comparison of Esketamine Combined With Dexmedetomidine Versus Propofol Combined With Midazolam on Drug-Induced Sleep Endoscopy - A Randomized Controlled Trial",
