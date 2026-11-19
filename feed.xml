@@ -7,7 +7,7 @@
     <atom:link href="https://rnordxx1.github.io/osa-paper-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <copyright>&#169; 2026 Ryan Nord, MD</copyright>
-    <lastBuildDate>Wed, 18 Nov 2026 04:45:45 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 04:53:59 -0500</lastBuildDate>
     <description>Every day, one new paper on obstructive sleep apnea surgery: hypoglossal nerve stimulation, palate surgery including barbed reposition pharyngoplasty, tongue base, skeletal and nasal procedures, patient selection and comparators. Every episode summarizes the paper, walks through it as a teaching round, places it against a 440-paper evidence library, and ends with whether it should change practice.
 
 Episodes are written and narrated by an AI system working from the full text of each paper and the host's curated library of digests, under rules set by the host. They are reviewed for teaching, not for patient care. Nothing here is medical advice.
@@ -30,6 +30,52 @@ Produced by Ryan Nord, MD (VCU Health). Disclosures: consultant to AvivoMed; pre
     <itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Upper Airway Stimulation for Obstructive Sleep Apnea - Treatment Outcomes by Sleep Position and Sex</title>
+      <itunes:title>Upper Airway Stimulation for Obstructive Sleep Apnea - Treatment Outcomes by Sleep Position and Sex</itunes:title>
+      <description>The take-home point is about counseling. This paper doesn't change who is offered Inspire, but it sharpens what we tell candidates about sleep position. Say it the way patients remember it. On their side, about three in four reached Sher success. On their back, about one in two. Then add the honest qualifier: those are best-case titration-night numbers. On full-night, single-setting home studies, success was closer to three in five overall, in a small group.
+
+For women, don't promise better results. The registry and this paper point that way, but another cohort doesn't. What you can say is that nothing here suggests women do worse.
+
+For follow-up, ask for position-specific AHI and the time spent on the back on every postoperative study. A titration night is a best-case fragment. To know whether the device works through the night, a full-night study at a single setting tells you more.
+
+For the patient whose back AHI stays high, the paper's pathway was advanced programming or a return to the surgeon for awake endoscopy. About one in four needed advanced programming. Positional therapy is a reasonable adjunct, though its effect wasn't reported here. In Dr. Nord's practice, DISE is a good tool for the Inspire non-responder once awake endoscopy and reprogramming have failed.
+
+Patients will also ask about weight. Body mass index didn't change significantly in this cohort, so weight loss is unlikely to explain the gains. Weight loss and Inspire work as partners, and for many patients it's both, not either-or.
+
+How confident am I? Fairly confident that the back is the weaker position, because another cohort, the 2024 Patel study, agrees. Not confident in the size of that gap, and less so in the sex effect. What would move me is a prospective study using full-night, fixed-setting studies, scored by position, with an adjusted model.
+
+The paper again: Shindhelm, Tesson and colleagues, from Radtke's group at Duke University. Upper airway stimulation for obstructive sleep apnea: treatment outcomes by sleep position and sex. Sleep Medicine, 2026, volume one hundred forty-six, article number one zero nine zero nine two.
+
+What's your one takeaway from this paper?
+
+Paper: Shindhelm AC, Tesson AR, Commesso EA, Unnithan S, Kahmke RR, Ellison MD, et al. Upper airway stimulation for obstructive sleep apnea: Treatment outcomes by sleep position and sex. *Sleep Medicine*. 2026;146:109092. doi:10.1016/j.sleep.2026.109092
+https://doi.org/10.1016/j.sleep.2026.109092</description>
+      <content:encoded><![CDATA[<p>The take-home point is about counseling. This paper doesn&#x27;t change who is offered Inspire, but it sharpens what we tell candidates about sleep position. Say it the way patients remember it. On their side, about three in four reached Sher success. On their back, about one in two. Then add the honest qualifier: those are best-case titration-night numbers. On full-night, single-setting home studies, success was closer to three in five overall, in a small group.</p><p>For women, don&#x27;t promise better results. The registry and this paper point that way, but another cohort doesn&#x27;t. What you can say is that nothing here suggests women do worse.</p><p>For follow-up, ask for position-specific AHI and the time spent on the back on every postoperative study. A titration night is a best-case fragment. To know whether the device works through the night, a full-night study at a single setting tells you more.</p><p>For the patient whose back AHI stays high, the paper&#x27;s pathway was advanced programming or a return to the surgeon for awake endoscopy. About one in four needed advanced programming. Positional therapy is a reasonable adjunct, though its effect wasn&#x27;t reported here. In Dr. Nord&#x27;s practice, DISE is a good tool for the Inspire non-responder once awake endoscopy and reprogramming have failed.</p><p>Patients will also ask about weight. Body mass index didn&#x27;t change significantly in this cohort, so weight loss is unlikely to explain the gains. Weight loss and Inspire work as partners, and for many patients it&#x27;s both, not either-or.</p><p>How confident am I? Fairly confident that the back is the weaker position, because another cohort, the 2024 Patel study, agrees. Not confident in the size of that gap, and less so in the sex effect. What would move me is a prospective study using full-night, fixed-setting studies, scored by position, with an adjusted model.</p><p>The paper again: Shindhelm, Tesson and colleagues, from Radtke&#x27;s group at Duke University. Upper airway stimulation for obstructive sleep apnea: treatment outcomes by sleep position and sex. Sleep Medicine, 2026, volume one hundred forty-six, article number one zero nine zero nine two.</p><p>What&#x27;s your one takeaway from this paper?</p><p>Paper: Shindhelm AC, Tesson AR, Commesso EA, Unnithan S, Kahmke RR, Ellison MD, et al. Upper airway stimulation for obstructive sleep apnea: Treatment outcomes by sleep position and sex. *Sleep Medicine*. 2026;146:109092. doi:10.1016/j.sleep.2026.109092
+https://doi.org/10.1016/j.sleep.2026.109092</p>]]></content:encoded>
+      <itunes:summary>The take-home point is about counseling. This paper doesn't change who is offered Inspire, but it sharpens what we tell candidates about sleep position. Say it the way patients remember it. On their side, about three in four reached Sher success. On their back, about one in two. Then add the honest qualifier: those are best-case titration-night numbers. On full-night, single-setting home studies, success was closer to three in five overall, in a small group.
+
+For women, don't promise better results. The registry and this paper point that way, but another cohort doesn't. What you can say is that nothing here suggests women do worse.
+
+For follow-up, ask for position-specific AHI and the time spent on the back on every postoperative study. A titration night is a best-case fragment. To know whether the device works through the night, a full-night study at a single setting tells you more.
+
+For the patient whose back AHI stays high, the paper's pathway was advanced programming or a return to the surgeon for awake endoscopy. About one in four needed advanced programming. Positional therapy is a reasonable adjunct, though its effect wasn't reported here. In Dr. Nord's practice, DISE is a good tool for the Inspire non-responder once awake endoscopy and reprogramming have failed.
+
+Patients will also ask about weight. Body mass index didn't change significantly in this cohort, so weight loss is unlikely to explain the gains. Weight loss and Inspire work as partners, and for many patients it's both, not either-or.
+
+How confident am I? Fairly confident that the back is the weaker position, because another cohort, the 2024 Patel study, agrees. Not confident in the size of that gap, and less so in the sex effect. What would move me is a prospective study using full-night, fixed-setting studies, scored by position, with an adjusted model.
+
+The paper again: Shindhelm, Tesson and colleagues, from Radtke's group at Duke University. Upper airway stimulation for obstructive sleep apnea: treatment outcomes by sleep position and sex. Sleep Medicine, 2026, volume one hundred forty-six, article number one zero nine zero nine two.
+
+What's your one takeaway from this paper?</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=a8f632d4-b280-5622-8f4e-25f719757a04/rnordxx1.github.io/osa-paper-podcast/episodes/2026-11-19-Upper-Airway-Stimulation-for-Obstructive-Sleep-Apnea.mp3" length="4667412" type="audio/mpeg"/>
+      <guid isPermaLink="false">osa-paper-podcast-1645d4f9</guid>
+      <pubDate>Thu, 19 Nov 2026 05:53:48 -0500</pubDate>
+      <itunes:duration>0:12:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Ryan Nord, MD</itunes:author>
+      <link>https://doi.org/10.1016/j.sleep.2026.109092</link>
+    </item>
     <item>
       <title>Insomnia as a Clinical Predictor of Hypoglossal Nerve Stimulation Settings and Treatment Success</title>
       <itunes:title>Insomnia as a Clinical Predictor of Hypoglossal Nerve Stimulation Settings and Treatment Success</itunes:title>
