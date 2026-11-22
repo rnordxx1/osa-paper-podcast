@@ -1,5 +1,22 @@
 [
  {
+  "id": "e3983b41",
+  "date": "2026-11-22",
+  "title": "The Impact of Neck Circumference and BMI on Upper Airway Collapsibility and Risk of Complete Concentric Collapse in OSA",
+  "authors": "Patel H, Chapman T, Whitehead R, Zhang Y, Ritz E, Mokhlesi B, et al.",
+  "journal": "The Laryngoscope",
+  "year": "2026",
+  "doi": "10.1002/lary.70301",
+  "pmid": "",
+  "blurb": "Researchers at Rush University Medical Center asked whether neck circumference and body mass index predict how collapsible the airway is during drug-induced sleep endoscopy, and whether either can identify complete concentric collapse, a pattern that excludes patients from Inspire hypoglossal nerve stimulation. Both measures were mildly linked to a more collapsible airway, but even the best cutoff correctly flagged complete concentric collapse only about half the time. The findings support keeping drug-induced sleep endoscopy in the candidacy workup rather than relying on bedside measurements to select patients.",
+  "audio": "https://op3.dev/e,pg=a8f632d4-b280-5622-8f4e-25f719757a04/rnordxx1.github.io/osa-paper-podcast/episodes/2026-11-22-The-Impact-of-Neck-Circumference-and-BMI.mp3",
+  "bytes": 4820310,
+  "duration": 802,
+  "minutes": 13,
+  "page": "https://rnordxx1.github.io/osa-paper-podcast/#ep-e3983b41",
+  "guid": "osa-paper-podcast-e3983b41"
+ },
+ {
   "id": "72a61bf5",
   "date": "2026-11-21",
   "title": "Effect of Malocclusion on Response to Hypoglossal Nerve Stimulation for Obstructive Sleep Apnea",
