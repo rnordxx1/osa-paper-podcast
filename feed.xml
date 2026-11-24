@@ -7,7 +7,7 @@
     <atom:link href="https://rnordxx1.github.io/osa-paper-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <copyright>&#169; 2026 Ryan Nord, MD</copyright>
-    <lastBuildDate>Mon, 23 Nov 2026 04:47:22 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 04:47:13 -0500</lastBuildDate>
     <description>Every day, one new paper on obstructive sleep apnea surgery: hypoglossal nerve stimulation, palate surgery including barbed reposition pharyngoplasty, tongue base, skeletal and nasal procedures, patient selection and comparators. Every episode summarizes the paper, walks through it as a teaching round, places it against a 440-paper evidence library, and ends with whether it should change practice.
 
 Episodes are written and narrated by an AI system working from the full text of each paper and the host's curated library of digests, under rules set by the host. They are reviewed for teaching, not for patient care. Nothing here is medical advice.
@@ -30,6 +30,48 @@ Produced by Ryan Nord, MD (VCU Health). Disclosures: consultant to AvivoMed; pre
     <itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Association between respiration-synchronized hypoglossal nerve stimulation and changes in sleep apnea-specific hypoxic burden in patients with obstructive sleep apnea</title>
+      <itunes:title>Association between respiration-synchronized hypoglossal nerve stimulation and changes in sleep apnea-specific hypoxic burden in patients with obstructive sleep apnea</itunes:title>
+      <description>The take-home point: in patients who respond to Inspire by the A-H-I, the oxygen picture improves too. Across all thirty patients, hypoxic burden fell by about two-thirds, a median of sixty-nine percent, at one year. That gives an honest counseling line. In a thirty-patient series on Inspire Four, hypoxic burden fell by about two-thirds. Of the patients who started above the high-risk threshold, about four in five ended below it, eight of ten. Leave out any promise about the heart.
+
+The paper doesn't alter who is offered implantation, and baseline hypoxic burden is not a selection tool. Its reach is limited, too. Mean body mass index was twenty-seven and a half, so it can't speak for heavier patients. And these are Inspire Four results. Inspire Five has no separate sensing lead and no published outcomes yet.
+
+Where it sharpens a decision is the non-responder visit. Don't assume an oxygen benefit is hiding behind a stubborn A-H-I. In Antwerp, non-responders as a group showed no statistically significant change, and individuals went both ways. Work them up as you would any non-responder. As one example, Dr. Nord treats drug-induced sleep endoscopy, or DISE, as a good next tool once awake endoscopy and reprogramming have failed.
+
+On weight, this result held with weight flat. For counseling, a 2025 ADHERE registry analysis in Otolaryngology–Head and Neck Surgery, first author Han, with an Inspire employee among its authors, gives an easy figure. Patients who lost two or more body mass index points met Sher fifteen about two times in three, sixty-four point six percent. Those who gained met it about half the time, forty-eight point five percent. The caveat: it's an observational association, and about three in five registry patients were excluded for missing data. Weight management belongs alongside the implant.
+
+If you want to track hypoxic burden, keep the raw study files, and use the same study type and scoring rule each time.
+
+What would move this? A controlled study linking a fall in hypoxic burden to blood pressure, events or symptoms, and larger non-responder cohorts on current hardware.
+
+What's your one takeaway from this paper?
+
+Paper: Van Loo D, Dieltjens M, Verbraecken J, Azarbarzin A, Op de Beeck S, Vanderveken OM. Association between respiration-synchronized hypoglossal nerve stimulation and changes in sleep apnea-specific hypoxic burden in patients with obstructive sleep apnea. *Sleep*. 2026;49(5). doi:10.1093/sleep/zsag049
+https://doi.org/10.1093/sleep/zsag049</description>
+      <content:encoded><![CDATA[<p>The take-home point: in patients who respond to Inspire by the A-H-I, the oxygen picture improves too. Across all thirty patients, hypoxic burden fell by about two-thirds, a median of sixty-nine percent, at one year. That gives an honest counseling line. In a thirty-patient series on Inspire Four, hypoxic burden fell by about two-thirds. Of the patients who started above the high-risk threshold, about four in five ended below it, eight of ten. Leave out any promise about the heart.</p><p>The paper doesn&#x27;t alter who is offered implantation, and baseline hypoxic burden is not a selection tool. Its reach is limited, too. Mean body mass index was twenty-seven and a half, so it can&#x27;t speak for heavier patients. And these are Inspire Four results. Inspire Five has no separate sensing lead and no published outcomes yet.</p><p>Where it sharpens a decision is the non-responder visit. Don&#x27;t assume an oxygen benefit is hiding behind a stubborn A-H-I. In Antwerp, non-responders as a group showed no statistically significant change, and individuals went both ways. Work them up as you would any non-responder. As one example, Dr. Nord treats drug-induced sleep endoscopy, or DISE, as a good next tool once awake endoscopy and reprogramming have failed.</p><p>On weight, this result held with weight flat. For counseling, a 2025 ADHERE registry analysis in Otolaryngology–Head and Neck Surgery, first author Han, with an Inspire employee among its authors, gives an easy figure. Patients who lost two or more body mass index points met Sher fifteen about two times in three, sixty-four point six percent. Those who gained met it about half the time, forty-eight point five percent. The caveat: it&#x27;s an observational association, and about three in five registry patients were excluded for missing data. Weight management belongs alongside the implant.</p><p>If you want to track hypoxic burden, keep the raw study files, and use the same study type and scoring rule each time.</p><p>What would move this? A controlled study linking a fall in hypoxic burden to blood pressure, events or symptoms, and larger non-responder cohorts on current hardware.</p><p>What&#x27;s your one takeaway from this paper?</p><p>Paper: Van Loo D, Dieltjens M, Verbraecken J, Azarbarzin A, Op de Beeck S, Vanderveken OM. Association between respiration-synchronized hypoglossal nerve stimulation and changes in sleep apnea-specific hypoxic burden in patients with obstructive sleep apnea. *Sleep*. 2026;49(5). doi:10.1093/sleep/zsag049
+https://doi.org/10.1093/sleep/zsag049</p>]]></content:encoded>
+      <itunes:summary>The take-home point: in patients who respond to Inspire by the A-H-I, the oxygen picture improves too. Across all thirty patients, hypoxic burden fell by about two-thirds, a median of sixty-nine percent, at one year. That gives an honest counseling line. In a thirty-patient series on Inspire Four, hypoxic burden fell by about two-thirds. Of the patients who started above the high-risk threshold, about four in five ended below it, eight of ten. Leave out any promise about the heart.
+
+The paper doesn't alter who is offered implantation, and baseline hypoxic burden is not a selection tool. Its reach is limited, too. Mean body mass index was twenty-seven and a half, so it can't speak for heavier patients. And these are Inspire Four results. Inspire Five has no separate sensing lead and no published outcomes yet.
+
+Where it sharpens a decision is the non-responder visit. Don't assume an oxygen benefit is hiding behind a stubborn A-H-I. In Antwerp, non-responders as a group showed no statistically significant change, and individuals went both ways. Work them up as you would any non-responder. As one example, Dr. Nord treats drug-induced sleep endoscopy, or DISE, as a good next tool once awake endoscopy and reprogramming have failed.
+
+On weight, this result held with weight flat. For counseling, a 2025 ADHERE registry analysis in Otolaryngology–Head and Neck Surgery, first author Han, with an Inspire employee among its authors, gives an easy figure. Patients who lost two or more body mass index points met Sher fifteen about two times in three, sixty-four point six percent. Those who gained met it about half the time, forty-eight point five percent. The caveat: it's an observational association, and about three in five registry patients were excluded for missing data. Weight management belongs alongside the implant.
+
+If you want to track hypoxic burden, keep the raw study files, and use the same study type and scoring rule each time.
+
+What would move this? A controlled study linking a fall in hypoxic burden to blood pressure, events or symptoms, and larger non-responder cohorts on current hardware.
+
+What's your one takeaway from this paper?</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=a8f632d4-b280-5622-8f4e-25f719757a04/rnordxx1.github.io/osa-paper-podcast/episodes/2026-11-24-Association-between-respiration-synchronized-hypoglossal-nerve-stimulation-and.mp3" length="4985139" type="audio/mpeg"/>
+      <guid isPermaLink="false">osa-paper-podcast-48c4945d</guid>
+      <pubDate>Tue, 24 Nov 2026 05:46:53 -0500</pubDate>
+      <itunes:duration>0:13:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Ryan Nord, MD</itunes:author>
+      <link>https://doi.org/10.1093/sleep/zsag049</link>
+    </item>
     <item>
       <title>Rapid Eye Movement-Related Obstructive Sleep Apnea - A Physiological Phenotype Predicting Favorable Outcomes Following Palatal Surgery</title>
       <itunes:title>Rapid Eye Movement-Related Obstructive Sleep Apnea - A Physiological Phenotype Predicting Favorable Outcomes Following Palatal Surgery</itunes:title>
