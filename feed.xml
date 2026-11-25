@@ -7,7 +7,7 @@
     <atom:link href="https://rnordxx1.github.io/osa-paper-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <copyright>&#169; 2026 Ryan Nord, MD</copyright>
-    <lastBuildDate>Tue, 24 Nov 2026 04:47:13 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 04:47:13 -0500</lastBuildDate>
     <description>Every day, one new paper on obstructive sleep apnea surgery: hypoglossal nerve stimulation, palate surgery including barbed reposition pharyngoplasty, tongue base, skeletal and nasal procedures, patient selection and comparators. Every episode summarizes the paper, walks through it as a teaching round, places it against a 440-paper evidence library, and ends with whether it should change practice.
 
 Episodes are written and narrated by an AI system working from the full text of each paper and the host's curated library of digests, under rules set by the host. They are reviewed for teaching, not for patient care. Nothing here is medical advice.
@@ -30,6 +30,48 @@ Produced by Ryan Nord, MD (VCU Health). Disclosures: consultant to AvivoMed; pre
     <itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Clinical Outcomes of Hypoglossal Nerve Stimulation Versus Continuous Positive Airway Pressure in Obstructive Sleep Apnea</title>
+      <itunes:title>Clinical Outcomes of Hypoglossal Nerve Stimulation Versus Continuous Positive Airway Pressure in Obstructive Sleep Apnea</itunes:title>
+      <description>The decision this paper touches is counseling. Picture the CPAP-intolerant patient deciding whether to have a stimulator implanted, and asking what to expect beyond better sleep. The paper doesn't change who is a candidate. What it adds is a clearer, more honest way to answer that question.
+
+The take-home point. In this database, stimulation patients were hospitalized about half as often as CPAP patients, but not significantly less often than UPPP patients. So much of that gap likely reflects who is chosen for surgery, and the authors themselves say the results may be at least partly due to a healthier surgical cohort. Don't tell a patient the implant prevents strokes, heart attacks or admissions. The case for stimulation stays where the literature puts it. When CPAP is worn, the two control sleep apnea about equally well, and stimulation's strength is that patients use it.
+
+First, the sleepiness signal. It isn't a measured efficacy result, but it's a reminder to follow Epworth scores, residual sleepiness and nightly use, not only the A-H-I.
+
+Second, this is a useful teaching case for residents. Change the comparator, and the answer changes.
+
+How confident am I? Confident that this design can't show stimulation prevents events, and the authors say as much. What would move it? A sham-controlled or randomized trial with event outcomes. A matched cohort with adherence and A-H-I data. And outcomes for the current device, since there are no published outcomes yet for Inspire V.
+
+The paper reports no funding, and Dr. Nord, its senior author, has previously consulted for Inspire.
+
+What's your one takeaway from this paper?
+
+Paper: Nayak A, Adibi I, Calder A, Saeedi A, Tucker A, Nord R. Clinical Outcomes of Hypoglossal Nerve Stimulation Versus Continuous Positive Airway Pressure in Obstructive Sleep Apnea. *OTO Open*. 2026;10(2):e70240. doi:10.1002/oto2.70240
+https://doi.org/10.1002/oto2.70240</description>
+      <content:encoded><![CDATA[<p>The decision this paper touches is counseling. Picture the CPAP-intolerant patient deciding whether to have a stimulator implanted, and asking what to expect beyond better sleep. The paper doesn&#x27;t change who is a candidate. What it adds is a clearer, more honest way to answer that question.</p><p>The take-home point. In this database, stimulation patients were hospitalized about half as often as CPAP patients, but not significantly less often than UPPP patients. So much of that gap likely reflects who is chosen for surgery, and the authors themselves say the results may be at least partly due to a healthier surgical cohort. Don&#x27;t tell a patient the implant prevents strokes, heart attacks or admissions. The case for stimulation stays where the literature puts it. When CPAP is worn, the two control sleep apnea about equally well, and stimulation&#x27;s strength is that patients use it.</p><p>First, the sleepiness signal. It isn&#x27;t a measured efficacy result, but it&#x27;s a reminder to follow Epworth scores, residual sleepiness and nightly use, not only the A-H-I.</p><p>Second, this is a useful teaching case for residents. Change the comparator, and the answer changes.</p><p>How confident am I? Confident that this design can&#x27;t show stimulation prevents events, and the authors say as much. What would move it? A sham-controlled or randomized trial with event outcomes. A matched cohort with adherence and A-H-I data. And outcomes for the current device, since there are no published outcomes yet for Inspire V.</p><p>The paper reports no funding, and Dr. Nord, its senior author, has previously consulted for Inspire.</p><p>What&#x27;s your one takeaway from this paper?</p><p>Paper: Nayak A, Adibi I, Calder A, Saeedi A, Tucker A, Nord R. Clinical Outcomes of Hypoglossal Nerve Stimulation Versus Continuous Positive Airway Pressure in Obstructive Sleep Apnea. *OTO Open*. 2026;10(2):e70240. doi:10.1002/oto2.70240
+https://doi.org/10.1002/oto2.70240</p>]]></content:encoded>
+      <itunes:summary>The decision this paper touches is counseling. Picture the CPAP-intolerant patient deciding whether to have a stimulator implanted, and asking what to expect beyond better sleep. The paper doesn't change who is a candidate. What it adds is a clearer, more honest way to answer that question.
+
+The take-home point. In this database, stimulation patients were hospitalized about half as often as CPAP patients, but not significantly less often than UPPP patients. So much of that gap likely reflects who is chosen for surgery, and the authors themselves say the results may be at least partly due to a healthier surgical cohort. Don't tell a patient the implant prevents strokes, heart attacks or admissions. The case for stimulation stays where the literature puts it. When CPAP is worn, the two control sleep apnea about equally well, and stimulation's strength is that patients use it.
+
+First, the sleepiness signal. It isn't a measured efficacy result, but it's a reminder to follow Epworth scores, residual sleepiness and nightly use, not only the A-H-I.
+
+Second, this is a useful teaching case for residents. Change the comparator, and the answer changes.
+
+How confident am I? Confident that this design can't show stimulation prevents events, and the authors say as much. What would move it? A sham-controlled or randomized trial with event outcomes. A matched cohort with adherence and A-H-I data. And outcomes for the current device, since there are no published outcomes yet for Inspire V.
+
+The paper reports no funding, and Dr. Nord, its senior author, has previously consulted for Inspire.
+
+What's your one takeaway from this paper?</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=a8f632d4-b280-5622-8f4e-25f719757a04/rnordxx1.github.io/osa-paper-podcast/episodes/2026-11-25-Clinical-Outcomes-of-Hypoglossal-Nerve-Stimulation-Versus.mp3" length="4891656" type="audio/mpeg"/>
+      <guid isPermaLink="false">osa-paper-podcast-a7052514</guid>
+      <pubDate>Wed, 25 Nov 2026 05:46:48 -0500</pubDate>
+      <itunes:duration>0:13:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Ryan Nord, MD</itunes:author>
+      <link>https://doi.org/10.1002/oto2.70240</link>
+    </item>
     <item>
       <title>Association between respiration-synchronized hypoglossal nerve stimulation and changes in sleep apnea-specific hypoxic burden in patients with obstructive sleep apnea</title>
       <itunes:title>Association between respiration-synchronized hypoglossal nerve stimulation and changes in sleep apnea-specific hypoxic burden in patients with obstructive sleep apnea</itunes:title>

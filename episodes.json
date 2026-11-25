@@ -1,5 +1,22 @@
 [
  {
+  "id": "a7052514",
+  "date": "2026-11-25",
+  "title": "Clinical Outcomes of Hypoglossal Nerve Stimulation Versus Continuous Positive Airway Pressure in Obstructive Sleep Apnea",
+  "authors": "Nayak A, Adibi I, Calder A, Saeedi A, Tucker A, Nord R.",
+  "journal": "OTO Open",
+  "year": "2026",
+  "doi": "10.1002/oto2.70240",
+  "pmid": "42016453",
+  "blurb": "A 2026 study in OTO Open from Virginia Commonwealth University used health-record data to ask whether patients with obstructive sleep apnea who received a hypoglossal nerve stimulator had fewer serious medical events than matched patients who started continuous positive airway pressure. Stimulation patients were hospitalized about half as often, but the gap largely disappeared when they were compared with patients who had uvulopalatopharyngoplasty, pointing to the selection of healthier surgical candidates rather than a proven device effect. It does not change who is offered implantation, but it helps clinicians counsel patients honestly: the lower hospitalization rate likely reflects, at least in part, who is chosen for surgery, and is not proof that the implant prevents events.",
+  "audio": "https://op3.dev/e,pg=a8f632d4-b280-5622-8f4e-25f719757a04/rnordxx1.github.io/osa-paper-podcast/episodes/2026-11-25-Clinical-Outcomes-of-Hypoglossal-Nerve-Stimulation-Versus.mp3",
+  "bytes": 4891656,
+  "duration": 814,
+  "minutes": 14,
+  "page": "https://rnordxx1.github.io/osa-paper-podcast/#ep-a7052514",
+  "guid": "osa-paper-podcast-a7052514"
+ },
+ {
   "id": "48c4945d",
   "date": "2026-11-24",
   "title": "Association between respiration-synchronized hypoglossal nerve stimulation and changes in sleep apnea-specific hypoxic burden in patients with obstructive sleep apnea",
