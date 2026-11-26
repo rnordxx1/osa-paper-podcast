@@ -7,7 +7,7 @@
     <atom:link href="https://rnordxx1.github.io/osa-paper-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <copyright>&#169; 2026 Ryan Nord, MD</copyright>
-    <lastBuildDate>Wed, 25 Nov 2026 04:47:13 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 04:46:31 -0500</lastBuildDate>
     <description>Every day, one new paper on obstructive sleep apnea surgery: hypoglossal nerve stimulation, palate surgery including barbed reposition pharyngoplasty, tongue base, skeletal and nasal procedures, patient selection and comparators. Every episode summarizes the paper, walks through it as a teaching round, places it against a 440-paper evidence library, and ends with whether it should change practice.
 
 Episodes are written and narrated by an AI system working from the full text of each paper and the host's curated library of digests, under rules set by the host. They are reviewed for teaching, not for patient care. Nothing here is medical advice.
@@ -30,6 +30,60 @@ Produced by Ryan Nord, MD (VCU Health). Disclosures: consultant to AvivoMed; pre
     <itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>AI Meets Sleep Surgery - Assessing Drug-Induced Sleep Endoscopy Interpretation With a Large Language Model</title>
+      <itunes:title>AI Meets Sleep Surgery - Assessing Drug-Induced Sleep Endoscopy Interpretation With a Large Language Model</itunes:title>
+      <description>The take-home point: a general-purpose language model is not ready to read DISE for candidacy or for palate surgery selection. The surgeon's own read stays the decision.
+
+The headline, one last time. The model read the velum, oropharynx and tongue base just like the operating surgeon. At the epiglottis, it fell to a kappa of zero point five four, against zero point nine for the humans. And it leaned toward calling primary epiglottic collapse secondary.
+
+The decision this touches is who goes to palate surgery, including barbed reposition pharyngoplasty, or B-R-P. Call primary epiglottic collapse secondary, and a patient may be cleared for a palate procedure that leaves the epiglottis untreated. So when the epiglottis is the question, give the video your own careful second look.
+
+For hypoglossal nerve stimulation, complete concentric collapse at the velum remains the gate. The French guideline advises against unilateral breathing-synchronized stimulation in that pattern. Nakache's group didn't report that pattern separately, so a language model shouldn't be used to rule it in or out. In Dr. Nord's practice, DISE is part of the Inspire candidacy workup.
+
+What the literature does support is the value of a recorded video and a second reader. In the 2026 Weiner study in OTO Open, roughly one in seven patients whom the consensus read as free of complete concentric collapse had one reviewer call it. That was thirteen and a half percent. Dr. Nord and Heiser were the two blinded reviewers in that study. So a second human read before telling a patient no is already worth doing.
+
+How far does this carry? These patients had a mean body mass index of about twenty-seven, and none was above thirty-one. The French guideline notes that palatal complete concentric collapse correlates with body mass index and the A-H-I, though not strongly enough to skip DISE. So in heavier patients with more severe disease, the hardest patterns may be more common. Don't assume these agreement figures carry over.
+
+For counseling, patients may ask whether a computer can read their sleep endoscopy. An honest answer: early studies are promising, but the surgeon still reads the video.
+
+Confidence that the model isn't ready yet is high. What would move it? A multicenter study with a blinded consensus reference and enough epiglottis cases, and eventually outcomes in patients treated on a model-assisted plan.
+
+The citation: Hack, Alsleibi, Shemesh and Nakache, in Sleep, 2026.
+
+What's your one takeaway from this paper?
+
+Paper: Hack S, Alsleibi S, Shemesh S, Nakache G. AI meets sleep surgery: assessing drug-induced sleep endoscopy interpretation with a large language model. *SLEEP*. 2026;49(7):zsaf338 (pp 1–11). doi:10.1093/sleep/zsaf338
+https://doi.org/10.1093/sleep/zsaf338</description>
+      <content:encoded><![CDATA[<p>The take-home point: a general-purpose language model is not ready to read DISE for candidacy or for palate surgery selection. The surgeon&#x27;s own read stays the decision.</p><p>The headline, one last time. The model read the velum, oropharynx and tongue base just like the operating surgeon. At the epiglottis, it fell to a kappa of zero point five four, against zero point nine for the humans. And it leaned toward calling primary epiglottic collapse secondary.</p><p>The decision this touches is who goes to palate surgery, including barbed reposition pharyngoplasty, or B-R-P. Call primary epiglottic collapse secondary, and a patient may be cleared for a palate procedure that leaves the epiglottis untreated. So when the epiglottis is the question, give the video your own careful second look.</p><p>For hypoglossal nerve stimulation, complete concentric collapse at the velum remains the gate. The French guideline advises against unilateral breathing-synchronized stimulation in that pattern. Nakache&#x27;s group didn&#x27;t report that pattern separately, so a language model shouldn&#x27;t be used to rule it in or out. In Dr. Nord&#x27;s practice, DISE is part of the Inspire candidacy workup.</p><p>What the literature does support is the value of a recorded video and a second reader. In the 2026 Weiner study in OTO Open, roughly one in seven patients whom the consensus read as free of complete concentric collapse had one reviewer call it. That was thirteen and a half percent. Dr. Nord and Heiser were the two blinded reviewers in that study. So a second human read before telling a patient no is already worth doing.</p><p>How far does this carry? These patients had a mean body mass index of about twenty-seven, and none was above thirty-one. The French guideline notes that palatal complete concentric collapse correlates with body mass index and the A-H-I, though not strongly enough to skip DISE. So in heavier patients with more severe disease, the hardest patterns may be more common. Don&#x27;t assume these agreement figures carry over.</p><p>For counseling, patients may ask whether a computer can read their sleep endoscopy. An honest answer: early studies are promising, but the surgeon still reads the video.</p><p>Confidence that the model isn&#x27;t ready yet is high. What would move it? A multicenter study with a blinded consensus reference and enough epiglottis cases, and eventually outcomes in patients treated on a model-assisted plan.</p><p>The citation: Hack, Alsleibi, Shemesh and Nakache, in Sleep, 2026.</p><p>What&#x27;s your one takeaway from this paper?</p><p>Paper: Hack S, Alsleibi S, Shemesh S, Nakache G. AI meets sleep surgery: assessing drug-induced sleep endoscopy interpretation with a large language model. *SLEEP*. 2026;49(7):zsaf338 (pp 1–11). doi:10.1093/sleep/zsaf338
+https://doi.org/10.1093/sleep/zsaf338</p>]]></content:encoded>
+      <itunes:summary>The take-home point: a general-purpose language model is not ready to read DISE for candidacy or for palate surgery selection. The surgeon's own read stays the decision.
+
+The headline, one last time. The model read the velum, oropharynx and tongue base just like the operating surgeon. At the epiglottis, it fell to a kappa of zero point five four, against zero point nine for the humans. And it leaned toward calling primary epiglottic collapse secondary.
+
+The decision this touches is who goes to palate surgery, including barbed reposition pharyngoplasty, or B-R-P. Call primary epiglottic collapse secondary, and a patient may be cleared for a palate procedure that leaves the epiglottis untreated. So when the epiglottis is the question, give the video your own careful second look.
+
+For hypoglossal nerve stimulation, complete concentric collapse at the velum remains the gate. The French guideline advises against unilateral breathing-synchronized stimulation in that pattern. Nakache's group didn't report that pattern separately, so a language model shouldn't be used to rule it in or out. In Dr. Nord's practice, DISE is part of the Inspire candidacy workup.
+
+What the literature does support is the value of a recorded video and a second reader. In the 2026 Weiner study in OTO Open, roughly one in seven patients whom the consensus read as free of complete concentric collapse had one reviewer call it. That was thirteen and a half percent. Dr. Nord and Heiser were the two blinded reviewers in that study. So a second human read before telling a patient no is already worth doing.
+
+How far does this carry? These patients had a mean body mass index of about twenty-seven, and none was above thirty-one. The French guideline notes that palatal complete concentric collapse correlates with body mass index and the A-H-I, though not strongly enough to skip DISE. So in heavier patients with more severe disease, the hardest patterns may be more common. Don't assume these agreement figures carry over.
+
+For counseling, patients may ask whether a computer can read their sleep endoscopy. An honest answer: early studies are promising, but the surgeon still reads the video.
+
+Confidence that the model isn't ready yet is high. What would move it? A multicenter study with a blinded consensus reference and enough epiglottis cases, and eventually outcomes in patients treated on a model-assisted plan.
+
+The citation: Hack, Alsleibi, Shemesh and Nakache, in Sleep, 2026.
+
+What's your one takeaway from this paper?</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=a8f632d4-b280-5622-8f4e-25f719757a04/rnordxx1.github.io/osa-paper-podcast/episodes/2026-11-26-AI-Meets-Sleep-Surgery-Assessing-Drug-Induced.mp3" length="4882726" type="audio/mpeg"/>
+      <guid isPermaLink="false">osa-paper-podcast-5f8858b4</guid>
+      <pubDate>Thu, 26 Nov 2026 05:46:16 -0500</pubDate>
+      <itunes:duration>0:13:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Ryan Nord, MD</itunes:author>
+      <link>https://doi.org/10.1093/sleep/zsaf338</link>
+    </item>
     <item>
       <title>Clinical Outcomes of Hypoglossal Nerve Stimulation Versus Continuous Positive Airway Pressure in Obstructive Sleep Apnea</title>
       <itunes:title>Clinical Outcomes of Hypoglossal Nerve Stimulation Versus Continuous Positive Airway Pressure in Obstructive Sleep Apnea</itunes:title>

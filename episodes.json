@@ -1,5 +1,22 @@
 [
  {
+  "id": "5f8858b4",
+  "date": "2026-11-26",
+  "title": "AI Meets Sleep Surgery - Assessing Drug-Induced Sleep Endoscopy Interpretation With a Large Language Model",
+  "authors": "Hack S, Alsleibi S, Shemesh S, Nakache G.",
+  "journal": "Sleep",
+  "year": "2026",
+  "doi": "10.1093/sleep/zsaf338",
+  "pmid": "",
+  "blurb": "A small single-center study in the journal Sleep tested whether a general-purpose large language model could interpret drug-induced sleep endoscopy videos and recommend treatment for obstructive sleep apnea, compared with two sleep surgery experts, a senior resident and the operating surgeon's report. The model matched the surgeon perfectly at the soft palate, oropharynx and tongue base, but agreed only moderately at the epiglottis, with a kappa of 0.54. It is an early signal worth watching, not yet a tool for surgical candidacy or palate surgery decisions.",
+  "audio": "https://op3.dev/e,pg=a8f632d4-b280-5622-8f4e-25f719757a04/rnordxx1.github.io/osa-paper-podcast/episodes/2026-11-26-AI-Meets-Sleep-Surgery-Assessing-Drug-Induced.mp3",
+  "bytes": 4882726,
+  "duration": 812,
+  "minutes": 14,
+  "page": "https://rnordxx1.github.io/osa-paper-podcast/#ep-5f8858b4",
+  "guid": "osa-paper-podcast-5f8858b4"
+ },
+ {
   "id": "a7052514",
   "date": "2026-11-25",
   "title": "Clinical Outcomes of Hypoglossal Nerve Stimulation Versus Continuous Positive Airway Pressure in Obstructive Sleep Apnea",
