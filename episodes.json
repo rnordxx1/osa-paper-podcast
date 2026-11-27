@@ -1,5 +1,22 @@
 [
  {
+  "id": "49f8d6ba",
+  "date": "2026-11-27",
+  "title": "Comparative Outcomes of Intracapsular and Total Tonsillectomy for Obstructive Sleep Apnea in Children With Trisomy 21",
+  "authors": "Fu BJ, Xu H, Smith AJ, Valdez TA.",
+  "journal": "International Journal of Pediatric Otorhinolaryngology",
+  "year": "2026",
+  "doi": "10.1016/j.ijporl.2026.112950",
+  "pmid": "",
+  "blurb": "A twenty-year retrospective study from Stanford compared intracapsular with total tonsillectomy for obstructive sleep apnea in children with Down syndrome. Intracapsular surgery was linked to far fewer return visits to the emergency department, with only one child of 67 returning, while sleep outcomes and year-adjusted recurrence did not differ significantly. In short: the recovery advantage is useful for counseling families, but long-term durability of intracapsular surgery is not yet established.",
+  "audio": "https://op3.dev/e,pg=a8f632d4-b280-5622-8f4e-25f719757a04/rnordxx1.github.io/osa-paper-podcast/episodes/2026-11-27-Comparative-Outcomes-of-Intracapsular-and-Total-Tonsillectomy.mp3",
+  "bytes": 5155872,
+  "duration": 858,
+  "minutes": 14,
+  "page": "https://rnordxx1.github.io/osa-paper-podcast/#ep-49f8d6ba",
+  "guid": "osa-paper-podcast-49f8d6ba"
+ },
+ {
   "id": "5f8858b4",
   "date": "2026-11-26",
   "title": "AI Meets Sleep Surgery - Assessing Drug-Induced Sleep Endoscopy Interpretation With a Large Language Model",
